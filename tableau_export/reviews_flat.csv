@@ -1,0 +1,1201 @@
+review_id,caterer_id,caterer_name,cuisine_type,performance_tier,review_date,star_rating,vader_compound,vader_label,tb_polarity,tb_subjectivity,topic_label,topic_probability,word_count
+117,2,Spice Route Catering,Indian,gold,2023-01-02,4,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9555,18
+300,4,Bella Cucina Events,Italian,platinum,2023-01-02,5,0.7184,positive,0.0,0.5,Packaging & Presentation,0.9461,19
+1141,14,Garden State Greens,Vegetarian,silver,2023-01-02,4,0.8481,positive,0.75,0.5875,Food Quality & Taste,0.8998,15
+841,11,Saffron House,Middle Eastern,gold,2023-01-03,5,0.7351,positive,0.2333,0.3333,Customer Service,0.9665,29
+131,2,Spice Route Catering,Indian,gold,2023-01-04,4,0.8074,positive,0.5,0.8938,Value & Pricing,0.6249,14
+529,7,The Grain Bowl,American,silver,2023-01-05,4,0.4215,positive,-0.5,1.0,Value & Pricing,0.96,18
+244,3,Harbor Fresh Kitchen,American,silver,2023-01-05,5,0.8265,positive,0.3058,0.6858,Food Quality & Taste,0.6017,23
+828,11,Saffron House,Middle Eastern,gold,2023-01-05,5,0.7778,positive,0.42,0.66,Value & Pricing,0.6675,23
+587,7,The Grain Bowl,American,silver,2023-01-05,4,0.8481,positive,0.4833,0.8833,Value & Pricing,0.5666,14
+371,5,Green Garden Catering,Vegetarian,gold,2023-01-06,5,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9552,19
+426,5,Green Garden Catering,Vegetarian,gold,2023-01-07,5,0.7579,positive,0.8,0.75,Packaging & Presentation,0.9598,19
+773,10,New England Deli,American,needs_improvement,2023-01-08,4,0.5267,positive,-0.0667,0.6,Value & Pricing,0.4944,20
+1017,13,The Smokehouse BBQ,BBQ,silver,2023-01-08,4,0.0,neutral,0.1,0.1,Food Quality & Taste,0.328,10
+1179,15,Federal Street Fare,American,needs_improvement,2023-01-08,4,0.6808,positive,0.1667,0.3333,Delivery & Timeliness,0.5124,14
+440,6,Taqueria Del Sol,Mexican,gold,2023-01-10,4,0.3182,positive,0.3,0.5,Delivery & Timeliness,0.6444,10
+808,10,New England Deli,American,needs_improvement,2023-01-10,4,0.4215,positive,0.3952,0.8119,Packaging & Presentation,0.604,13
+1165,15,Federal Street Fare,American,needs_improvement,2023-01-11,4,0.743,positive,0.4,0.6875,Food Quality & Taste,0.4891,12
+575,7,The Grain Bowl,American,silver,2023-01-13,5,0.3804,positive,0.1333,0.2,Food Quality & Taste,0.3618,18
+314,4,Bella Cucina Events,Italian,platinum,2023-01-13,5,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9617,25
+138,2,Spice Route Catering,Indian,gold,2023-01-13,4,0.0,neutral,0.2929,0.7179,Packaging & Presentation,0.5791,13
+1139,14,Garden State Greens,Vegetarian,silver,2023-01-14,4,0.7089,positive,0.25,1.0,Value & Pricing,0.9423,14
+796,10,New England Deli,American,needs_improvement,2023-01-14,4,0.7845,positive,0.55,0.3417,Packaging & Presentation,0.9426,15
+386,5,Green Garden Catering,Vegetarian,gold,2023-01-14,5,0.3612,positive,0.1,0.2667,Food Quality & Taste,0.691,21
+750,9,Seoul Kitchen Catering,Korean,gold,2023-01-15,5,0.8832,positive,0.345,0.405,Packaging & Presentation,0.503,21
+264,4,Bella Cucina Events,Italian,platinum,2023-01-16,5,0.7906,positive,1.0,1.0,Delivery & Timeliness,0.4843,21
+818,10,New England Deli,American,needs_improvement,2023-01-16,4,0.5106,positive,0.1,0.25,Customer Service,0.6834,14
+1171,15,Federal Street Fare,American,needs_improvement,2023-01-16,4,0.765,positive,0.5,0.9,Value & Pricing,0.5666,12
+142,2,Spice Route Catering,Indian,gold,2023-01-18,4,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9555,18
+103,2,Spice Route Catering,Indian,gold,2023-01-19,5,0.9008,positive,0.5964,0.7964,Value & Pricing,0.5408,17
+799,10,New England Deli,American,needs_improvement,2023-01-20,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,13
+839,11,Saffron House,Middle Eastern,gold,2023-01-21,5,0.872,positive,0.75,0.5875,Delivery & Timeliness,0.5207,20
+822,10,New England Deli,American,needs_improvement,2023-01-22,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.5197,17
+414,5,Green Garden Catering,Vegetarian,gold,2023-01-22,5,0.7964,positive,0.75,0.4,Customer Service,0.9526,28
+745,9,Seoul Kitchen Catering,Korean,gold,2023-01-22,5,0.7935,positive,0.3241,0.6701,Food Quality & Taste,0.5318,20
+557,7,The Grain Bowl,American,silver,2023-01-22,4,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9555,18
+632,8,Mediterranean Table,Mediterranean,platinum,2023-01-23,5,0.8126,positive,0.5333,0.3,Value & Pricing,0.4914,21
+303,4,Bella Cucina Events,Italian,platinum,2023-01-23,4,0.7713,positive,0.55,0.6917,Packaging & Presentation,0.949,12
+578,7,The Grain Bowl,American,silver,2023-01-23,4,0.8271,positive,0.75,0.9375,Delivery & Timeliness,0.5935,16
+832,11,Saffron House,Middle Eastern,gold,2023-01-26,4,0.8399,positive,0.75,0.9375,Food Quality & Taste,0.9104,12
+148,2,Spice Route Catering,Indian,gold,2023-01-26,4,0.6115,positive,1.0,1.0,Packaging & Presentation,0.9418,11
+598,8,Mediterranean Table,Mediterranean,platinum,2023-01-27,4,0.7184,positive,0.1,0.3833,Packaging & Presentation,0.9599,12
+286,4,Bella Cucina Events,Italian,platinum,2023-01-27,5,0.3818,positive,0.4167,0.7083,Food Quality & Taste,0.9375,21
+326,4,Bella Cucina Events,Italian,platinum,2023-01-28,5,0.6478,positive,0.15,0.5,Packaging & Presentation,0.5825,20
+75,1,Boston Box Lunch Co.,American,platinum,2023-01-29,5,0.6697,positive,0.3464,0.6089,Customer Service,0.4193,27
+482,6,Taqueria Del Sol,Mexican,gold,2023-01-29,5,0.8718,positive,0.4778,0.6111,Delivery & Timeliness,0.5646,17
+1070,14,Garden State Greens,Vegetarian,silver,2023-01-30,5,0.4939,positive,0.1333,0.3,Delivery & Timeliness,0.5209,21
+192,3,Harbor Fresh Kitchen,American,silver,2023-01-30,4,0.4215,positive,0.6,1.0,Packaging & Presentation,0.96,12
+657,8,Mediterranean Table,Mediterranean,platinum,2023-01-31,5,0.5106,positive,0.0667,0.1667,Customer Service,0.6051,20
+1181,15,Federal Street Fare,American,needs_improvement,2023-01-31,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.5425,17
+573,7,The Grain Bowl,American,silver,2023-02-01,4,0.7778,positive,0.65,0.4,Food Quality & Taste,0.9108,16
+710,9,Seoul Kitchen Catering,Korean,gold,2023-02-02,4,0.3818,positive,0.3111,0.5056,Food Quality & Taste,0.6198,11
+209,3,Harbor Fresh Kitchen,American,silver,2023-02-02,4,0.7269,positive,0.6,1.0,Packaging & Presentation,0.5396,14
+416,5,Green Garden Catering,Vegetarian,gold,2023-02-04,4,0.4215,positive,0.6,1.0,Packaging & Presentation,0.9425,11
+116,2,Spice Route Catering,Indian,gold,2023-02-05,5,0.2263,positive,0.1667,0.1,Value & Pricing,0.5971,18
+1016,13,The Smokehouse BBQ,BBQ,silver,2023-02-05,4,0.7003,positive,0.15,0.4,Food Quality & Taste,0.5978,16
+497,6,Taqueria Del Sol,Mexican,gold,2023-02-06,4,0.6124,positive,0.5,0.875,Food Quality & Taste,0.9195,15
+752,9,Seoul Kitchen Catering,Korean,gold,2023-02-06,5,0.836,positive,0.675,0.9375,Customer Service,0.6488,24
+561,7,The Grain Bowl,American,silver,2023-02-06,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,13
+975,12,Pacific Rim Catering,Asian Fusion,silver,2023-02-08,4,0.2263,positive,0.0286,0.8119,Value & Pricing,0.9555,16
+663,8,Mediterranean Table,Mediterranean,platinum,2023-02-10,5,0.5719,positive,0.45,0.55,Packaging & Presentation,0.7692,20
+1065,14,Garden State Greens,Vegetarian,silver,2023-02-10,5,0.0,neutral,0.2929,0.7179,Packaging & Presentation,0.6074,20
+90,1,Boston Box Lunch Co.,American,platinum,2023-02-10,5,0.765,positive,0.0,0.0,Packaging & Presentation,0.9556,17
+563,7,The Grain Bowl,American,silver,2023-02-10,4,0.3818,positive,0.3548,0.7131,Value & Pricing,0.9422,13
+18,1,Boston Box Lunch Co.,American,platinum,2023-02-10,5,0.7506,positive,0.3667,0.4611,Packaging & Presentation,0.3888,21
+435,5,Green Garden Catering,Vegetarian,gold,2023-02-10,5,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9552,19
+559,7,The Grain Bowl,American,silver,2023-02-11,4,0.743,positive,0.6111,0.8056,Delivery & Timeliness,0.5754,15
+517,7,The Grain Bowl,American,silver,2023-02-11,4,0.5719,positive,0.55,0.55,Delivery & Timeliness,0.9428,14
+218,3,Harbor Fresh Kitchen,American,silver,2023-02-11,4,0.2263,positive,0.0286,0.8119,Value & Pricing,0.9555,16
+274,4,Bella Cucina Events,Italian,platinum,2023-02-12,5,0.6369,positive,1.0,0.3,Customer Service,0.6545,23
+1040,13,The Smokehouse BBQ,BBQ,silver,2023-02-12,4,0.875,positive,0.725,1.0,Customer Service,0.9556,18
+272,4,Bella Cucina Events,Italian,platinum,2023-02-12,5,0.7269,positive,0.25,0.65,Value & Pricing,0.9379,24
+958,12,Pacific Rim Catering,Asian Fusion,silver,2023-02-13,4,0.7269,positive,0.6,1.0,Customer Service,0.6546,13
+74,1,Boston Box Lunch Co.,American,platinum,2023-02-13,5,0.8176,positive,0.3333,0.8333,Value & Pricing,0.3657,30
+125,2,Spice Route Catering,Indian,gold,2023-02-14,5,0.6369,positive,0.45,0.7,Value & Pricing,0.6399,21
+312,4,Bella Cucina Events,Italian,platinum,2023-02-15,5,0.8268,positive,1.0,1.0,Delivery & Timeliness,0.8794,21
+692,9,Seoul Kitchen Catering,Korean,gold,2023-02-16,5,0.5095,positive,0.3,0.5,Packaging & Presentation,0.3993,19
+136,2,Spice Route Catering,Indian,gold,2023-02-17,5,0.674,positive,0.4833,0.5333,Customer Service,0.4324,23
+783,10,New England Deli,American,needs_improvement,2023-02-18,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.9499,16
+736,9,Seoul Kitchen Catering,Korean,gold,2023-02-18,4,0.6115,positive,0.5286,0.8119,Value & Pricing,0.9325,12
+302,4,Bella Cucina Events,Italian,platinum,2023-02-18,5,0.893,positive,0.4667,0.5833,Food Quality & Taste,0.7238,21
+1111,14,Garden State Greens,Vegetarian,silver,2023-02-19,4,0.3804,positive,0.2,0.3,Food Quality & Taste,0.5427,13
+846,11,Saffron House,Middle Eastern,gold,2023-02-19,5,0.8481,positive,0.3867,0.7067,Value & Pricing,0.425,19
+156,2,Spice Route Catering,Indian,gold,2023-02-19,4,0.3182,positive,0.2952,0.6452,Delivery & Timeliness,0.5124,12
+1024,13,The Smokehouse BBQ,BBQ,silver,2023-02-19,4,0.0,neutral,0.1,0.1,Food Quality & Taste,0.328,10
+2,1,Boston Box Lunch Co.,American,platinum,2023-02-19,5,0.5719,positive,0.5,0.5,Delivery & Timeliness,0.5607,22
+915,12,Pacific Rim Catering,Asian Fusion,silver,2023-02-20,4,0.7351,positive,0.575,0.75,Customer Service,0.5112,15
+7,1,Boston Box Lunch Co.,American,platinum,2023-02-20,5,0.8955,positive,0.5778,0.6444,Delivery & Timeliness,0.5819,20
+855,11,Saffron House,Middle Eastern,gold,2023-02-20,4,0.7096,positive,0.4333,0.8333,Packaging & Presentation,0.5111,13
+443,6,Taqueria Del Sol,Mexican,gold,2023-02-21,4,0.765,positive,0.5,0.9,Value & Pricing,0.5666,12
+977,12,Pacific Rim Catering,Asian Fusion,silver,2023-02-21,4,0.7003,positive,0.36,0.7,Food Quality & Taste,0.5202,18
+259,4,Bella Cucina Events,Italian,platinum,2023-02-22,5,0.4019,positive,0.05,0.1917,Packaging & Presentation,0.7485,18
+446,6,Taqueria Del Sol,Mexican,gold,2023-02-23,5,0.9152,positive,0.7,0.75,Delivery & Timeliness,0.6426,15
+552,7,The Grain Bowl,American,silver,2023-02-24,4,0.6369,positive,-0.5,1.0,Value & Pricing,0.5666,14
+1146,15,Federal Street Fare,American,needs_improvement,2023-02-24,4,0.5106,positive,0.5,0.9,Value & Pricing,0.7195,12
+899,11,Saffron House,Middle Eastern,gold,2023-02-26,5,0.7845,positive,0.38,0.6367,Value & Pricing,0.5629,22
+898,11,Saffron House,Middle Eastern,gold,2023-02-26,4,0.6369,positive,1.0,0.3,Packaging & Presentation,0.9269,14
+1133,14,Garden State Greens,Vegetarian,silver,2023-02-26,4,0.6369,positive,0.4167,0.7083,Food Quality & Taste,0.9271,12
+310,4,Bella Cucina Events,Italian,platinum,2023-02-27,5,0.7574,positive,0.0338,0.7288,Packaging & Presentation,0.3999,23
+509,6,Taqueria Del Sol,Mexican,gold,2023-02-28,4,0.5719,positive,1.0,1.0,Packaging & Presentation,0.5099,15
+786,10,New England Deli,American,needs_improvement,2023-02-28,4,0.5994,positive,0.3778,0.6389,Delivery & Timeliness,0.5359,11
+398,5,Green Garden Catering,Vegetarian,gold,2023-02-28,4,0.3818,positive,0.3548,0.7131,Value & Pricing,0.9422,13
+408,5,Green Garden Catering,Vegetarian,gold,2023-03-01,5,0.8221,positive,0.0838,0.4287,Food Quality & Taste,0.705,24
+1132,14,Garden State Greens,Vegetarian,silver,2023-03-02,4,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9555,18
+677,8,Mediterranean Table,Mediterranean,platinum,2023-03-02,5,0.6369,positive,0.55,0.2,Packaging & Presentation,0.5767,20
+1064,14,Garden State Greens,Vegetarian,silver,2023-03-02,5,0.9231,positive,0.2444,0.8611,Value & Pricing,0.4182,21
+489,6,Taqueria Del Sol,Mexican,gold,2023-03-02,4,0.839,positive,1.0,1.0,Delivery & Timeliness,0.9426,14
+1012,13,The Smokehouse BBQ,BBQ,silver,2023-03-03,4,0.3612,positive,0.1333,0.3,Food Quality & Taste,0.6788,16
+449,6,Taqueria Del Sol,Mexican,gold,2023-03-03,4,0.8316,positive,0.35,0.6917,Packaging & Presentation,0.5599,15
+580,7,The Grain Bowl,American,silver,2023-03-05,4,0.6369,positive,0.25,0.925,Value & Pricing,0.96,16
+220,3,Harbor Fresh Kitchen,American,silver,2023-03-06,4,0.8689,positive,0.8,1.0,Delivery & Timeliness,0.5315,17
+219,3,Harbor Fresh Kitchen,American,silver,2023-03-06,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,10
+1155,15,Federal Street Fare,American,needs_improvement,2023-03-07,4,0.8268,positive,1.0,1.0,Delivery & Timeliness,0.9426,14
+154,2,Spice Route Catering,Indian,gold,2023-03-08,4,0.6369,positive,0.1333,0.3944,Food Quality & Taste,0.5241,18
+775,10,New England Deli,American,needs_improvement,2023-03-09,4,0.7096,positive,0.4167,0.7083,Packaging & Presentation,0.5857,11
+288,4,Bella Cucina Events,Italian,platinum,2023-03-09,5,0.7579,positive,0.2667,0.7,Value & Pricing,0.6079,26
+96,2,Spice Route Catering,Indian,gold,2023-03-10,4,0.5106,positive,0.5,0.9,Value & Pricing,0.9423,15
+1154,15,Federal Street Fare,American,needs_improvement,2023-03-11,4,0.8779,positive,0.55,0.9375,Customer Service,0.5857,15
+20,1,Boston Box Lunch Co.,American,platinum,2023-03-12,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9555,11
+976,12,Pacific Rim Catering,Asian Fusion,silver,2023-03-12,4,0.4215,positive,0.6,1.0,Packaging & Presentation,0.9425,14
+39,1,Boston Box Lunch Co.,American,platinum,2023-03-14,5,0.8625,positive,0.4333,0.6292,Customer Service,0.3887,22
+1075,14,Garden State Greens,Vegetarian,silver,2023-03-15,4,0.6369,positive,-0.5,1.0,Value & Pricing,0.5666,14
+711,9,Seoul Kitchen Catering,Korean,gold,2023-03-15,4,0.7351,positive,0.4333,0.6,Food Quality & Taste,0.5073,20
+94,2,Spice Route Catering,Indian,gold,2023-03-16,5,0.5423,positive,0.3952,0.8119,Packaging & Presentation,0.4246,18
+1156,15,Federal Street Fare,American,needs_improvement,2023-03-17,4,0.5106,positive,0.2929,0.7179,Packaging & Presentation,0.5191,12
+731,9,Seoul Kitchen Catering,Korean,gold,2023-03-17,4,0.5106,positive,0.4,0.7,Value & Pricing,0.9422,12
+1129,14,Garden State Greens,Vegetarian,silver,2023-03-18,4,0.6808,positive,0.1667,0.3333,Delivery & Timeliness,0.5124,14
+167,2,Spice Route Catering,Indian,gold,2023-03-18,5,0.765,positive,0.75,0.75,Packaging & Presentation,0.3655,27
+620,8,Mediterranean Table,Mediterranean,platinum,2023-03-19,5,0.7574,positive,0.345,0.6383,Packaging & Presentation,0.3993,23
+135,2,Spice Route Catering,Indian,gold,2023-03-20,4,0.3818,positive,0.4167,0.7083,Packaging & Presentation,0.6367,12
+155,2,Spice Route Catering,Indian,gold,2023-03-20,4,0.7351,positive,0.4333,0.6,Delivery & Timeliness,0.4896,20
+843,11,Saffron House,Middle Eastern,gold,2023-03-21,5,0.5095,positive,0.2,0.3,Delivery & Timeliness,0.6684,18
+1119,14,Garden State Greens,Vegetarian,silver,2023-03-21,5,0.8834,positive,0.6167,0.8333,Delivery & Timeliness,0.5544,25
+787,10,New England Deli,American,needs_improvement,2023-03-23,4,0.3818,positive,0.3548,0.7131,Value & Pricing,0.9422,13
+285,4,Bella Cucina Events,Italian,platinum,2023-03-23,5,0.8934,positive,0.6333,0.7,Delivery & Timeliness,0.4002,25
+318,4,Bella Cucina Events,Italian,platinum,2023-03-24,5,0.5095,positive,0.2,0.3,Delivery & Timeliness,0.6684,18
+349,5,Green Garden Catering,Vegetarian,gold,2023-03-24,5,0.872,positive,0.4833,0.8833,Delivery & Timeliness,0.6143,19
+284,4,Bella Cucina Events,Italian,platinum,2023-03-26,4,0.765,positive,0.5,0.9,Value & Pricing,0.96,14
+1193,15,Federal Street Fare,American,needs_improvement,2023-03-27,3,0.2732,positive,-0.0583,0.725,Delivery & Timeliness,0.7847,32
+111,2,Spice Route Catering,Indian,gold,2023-03-28,4,0.765,positive,0.5,0.9,Value & Pricing,0.96,14
+59,1,Boston Box Lunch Co.,American,platinum,2023-03-28,5,0.93,positive,0.65,0.8125,Packaging & Presentation,0.71,17
+444,6,Taqueria Del Sol,Mexican,gold,2023-03-28,4,0.7096,positive,0.4333,0.8333,Packaging & Presentation,0.5111,13
+234,3,Harbor Fresh Kitchen,American,silver,2023-03-28,4,0.5859,positive,0.2,0.4333,Food Quality & Taste,0.6279,16
+463,6,Taqueria Del Sol,Mexican,gold,2023-03-29,5,0.8555,positive,0.525,0.925,Value & Pricing,0.5268,22
+715,9,Seoul Kitchen Catering,Korean,gold,2023-03-29,5,0.4215,positive,-0.5,1.0,Value & Pricing,0.9635,25
+270,4,Bella Cucina Events,Italian,platinum,2023-03-30,5,0.5994,positive,0.85,1.0,Customer Service,0.9458,25
+4,1,Boston Box Lunch Co.,American,platinum,2023-03-30,5,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9634,25
+1097,14,Garden State Greens,Vegetarian,silver,2023-03-30,5,0.6808,positive,0.45,0.8,Value & Pricing,0.5465,19
+569,7,The Grain Bowl,American,silver,2023-03-31,4,0.6369,positive,0.25,0.925,Value & Pricing,0.96,16
+881,11,Saffron House,Middle Eastern,gold,2023-04-01,5,0.8481,positive,0.2,0.5437,Food Quality & Taste,0.9618,24
+996,13,The Smokehouse BBQ,BBQ,silver,2023-04-01,4,0.2263,positive,-0.2,0.55,Value & Pricing,0.9422,14
+535,7,The Grain Bowl,American,silver,2023-04-01,4,0.7783,positive,0.6111,0.5722,Food Quality & Taste,0.8997,14
+708,9,Seoul Kitchen Catering,Korean,gold,2023-04-02,4,0.3804,positive,0.3,0.5,Packaging & Presentation,0.5657,14
+265,4,Bella Cucina Events,Italian,platinum,2023-04-02,5,0.6369,positive,0.45,0.7,Value & Pricing,0.6399,21
+953,12,Pacific Rim Catering,Asian Fusion,silver,2023-04-03,5,0.6801,positive,0.2441,0.6701,Packaging & Presentation,0.4579,21
+810,10,New England Deli,American,needs_improvement,2023-04-03,4,0.7096,positive,0.4167,0.7083,Packaging & Presentation,0.5857,11
+5,1,Boston Box Lunch Co.,American,platinum,2023-04-03,5,0.5267,positive,0.2286,0.6063,Packaging & Presentation,0.3954,19
+145,2,Spice Route Catering,Indian,gold,2023-04-03,5,0.8126,positive,0.6667,0.6667,Delivery & Timeliness,0.7584,23
+835,11,Saffron House,Middle Eastern,gold,2023-04-03,5,0.836,positive,0.6,1.0,Packaging & Presentation,0.558,21
+921,12,Pacific Rim Catering,Asian Fusion,silver,2023-04-04,4,0.3804,positive,0.3,0.5,Food Quality & Taste,0.9332,13
+1152,15,Federal Street Fare,American,needs_improvement,2023-04-04,4,0.802,positive,0.85,1.0,Customer Service,0.5113,15
+649,8,Mediterranean Table,Mediterranean,platinum,2023-04-04,5,0.9118,positive,0.7,0.875,Packaging & Presentation,0.6451,19
+678,8,Mediterranean Table,Mediterranean,platinum,2023-04-05,5,0.8176,positive,0.3,0.1,Packaging & Presentation,0.7238,18
+978,12,Pacific Rim Catering,Asian Fusion,silver,2023-04-05,4,0.7269,positive,0.25,0.65,Value & Pricing,0.9331,17
+541,7,The Grain Bowl,American,silver,2023-04-07,4,0.839,positive,1.0,1.0,Delivery & Timeliness,0.9426,14
+585,7,The Grain Bowl,American,silver,2023-04-08,4,0.836,positive,0.6,1.0,Packaging & Presentation,0.5111,14
+345,4,Bella Cucina Events,Italian,platinum,2023-04-08,5,0.7902,positive,0.345,0.405,Packaging & Presentation,0.5573,22
+1168,15,Federal Street Fare,American,needs_improvement,2023-04-10,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.7286,14
+603,8,Mediterranean Table,Mediterranean,platinum,2023-04-12,5,0.8555,positive,0.525,0.925,Value & Pricing,0.5978,22
+256,4,Bella Cucina Events,Italian,platinum,2023-04-14,5,0.7783,positive,0.3667,0.4667,Packaging & Presentation,0.3643,21
+43,1,Boston Box Lunch Co.,American,platinum,2023-04-15,5,0.7574,positive,0.345,0.6383,Delivery & Timeliness,0.3778,23
+438,6,Taqueria Del Sol,Mexican,gold,2023-04-15,4,0.3804,positive,0.3,0.5,Food Quality & Taste,0.9271,13
+53,1,Boston Box Lunch Co.,American,platinum,2023-04-15,5,0.3804,positive,0.15,0.25,Food Quality & Taste,0.6001,18
+10,1,Boston Box Lunch Co.,American,platinum,2023-04-16,5,0.7964,positive,0.75,0.4,Customer Service,0.9526,28
+1004,13,The Smokehouse BBQ,BBQ,silver,2023-04-17,4,0.6478,positive,0.2,0.4417,Packaging & Presentation,0.5823,15
+1115,14,Garden State Greens,Vegetarian,silver,2023-04-17,5,0.8807,positive,0.5,0.6875,Customer Service,0.4358,24
+233,3,Harbor Fresh Kitchen,American,silver,2023-04-18,4,0.802,positive,0.85,1.0,Customer Service,0.5113,15
+961,12,Pacific Rim Catering,Asian Fusion,silver,2023-04-19,5,0.6478,positive,0.2,0.4417,Packaging & Presentation,0.6181,22
+474,6,Taqueria Del Sol,Mexican,gold,2023-04-19,5,0.3818,positive,-0.5,1.0,Value & Pricing,0.3738,20
+224,3,Harbor Fresh Kitchen,American,silver,2023-04-20,4,0.2263,positive,-0.5,1.0,Value & Pricing,0.542,15
+1088,14,Garden State Greens,Vegetarian,silver,2023-04-20,4,0.6369,positive,1.0,0.3,Packaging & Presentation,0.9269,14
+367,5,Green Garden Catering,Vegetarian,gold,2023-04-20,4,0.7269,positive,0.35,0.55,Customer Service,0.6546,13
+211,3,Harbor Fresh Kitchen,American,silver,2023-04-22,5,0.7717,positive,0.65,0.75,Delivery & Timeliness,0.9714,19
+182,3,Harbor Fresh Kitchen,American,silver,2023-04-22,4,0.8074,positive,0.5,0.875,Packaging & Presentation,0.5856,12
+99,2,Spice Route Catering,Indian,gold,2023-04-23,4,0.6808,positive,0.3,0.5,Packaging & Presentation,0.5334,10
+746,9,Seoul Kitchen Catering,Korean,gold,2023-04-24,5,0.8555,positive,0.65,0.2,Packaging & Presentation,0.5519,21
+329,4,Bella Cucina Events,Italian,platinum,2023-04-25,5,0.7783,positive,0.4583,0.4292,Food Quality & Taste,0.4848,19
+1078,14,Garden State Greens,Vegetarian,silver,2023-04-25,4,0.3818,positive,0.3111,0.5056,Food Quality & Taste,0.6198,11
+207,3,Harbor Fresh Kitchen,American,silver,2023-04-26,4,0.6124,positive,0.3619,0.7702,Value & Pricing,0.5127,14
+947,12,Pacific Rim Catering,Asian Fusion,silver,2023-04-26,4,0.8271,positive,0.4778,0.8056,Customer Service,0.5147,14
+294,4,Bella Cucina Events,Italian,platinum,2023-04-28,4,0.7269,positive,0.25,0.65,Value & Pricing,0.9331,17
+1182,15,Federal Street Fare,American,needs_improvement,2023-04-29,4,0.8173,positive,0.3667,0.6667,Delivery & Timeliness,0.5414,15
+1184,15,Federal Street Fare,American,needs_improvement,2023-05-01,4,0.7717,positive,0.4333,0.3667,Food Quality & Taste,0.9427,19
+423,5,Green Garden Catering,Vegetarian,gold,2023-05-01,5,0.4019,positive,0.1714,0.5089,Value & Pricing,0.6551,18
+9,1,Boston Box Lunch Co.,American,platinum,2023-05-01,5,0.7269,positive,0.0,0.4,Value & Pricing,0.6164,26
+141,2,Spice Route Catering,Indian,gold,2023-05-02,5,0.8777,positive,0.1783,0.5967,Food Quality & Taste,0.6285,20
+1014,13,The Smokehouse BBQ,BBQ,silver,2023-05-02,4,0.6249,positive,0.2833,0.5542,Food Quality & Taste,0.9555,17
+1186,15,Federal Street Fare,American,needs_improvement,2023-05-02,4,0.7184,positive,0.65,0.75,Delivery & Timeliness,0.9555,14
+1149,15,Federal Street Fare,American,needs_improvement,2023-05-02,4,0.5423,positive,0.1111,0.8056,Value & Pricing,0.9495,15
+246,3,Harbor Fresh Kitchen,American,silver,2023-05-03,4,0.5994,positive,0.85,1.0,Customer Service,0.9382,18
+840,11,Saffron House,Middle Eastern,gold,2023-05-04,5,0.5106,positive,0.4,0.7,Value & Pricing,0.9493,19
+965,12,Pacific Rim Catering,Asian Fusion,silver,2023-05-04,4,0.3818,positive,0.4167,0.7083,Food Quality & Taste,0.9199,11
+1039,13,The Smokehouse BBQ,BBQ,silver,2023-05-05,4,0.7574,positive,0.4333,0.6,Food Quality & Taste,0.9497,16
+544,7,The Grain Bowl,American,silver,2023-05-05,4,0.7096,positive,0.2667,0.4667,Delivery & Timeliness,0.9333,12
+441,6,Taqueria Del Sol,Mexican,gold,2023-05-05,4,0.764,positive,0.65,0.75,Food Quality & Taste,0.9329,13
+811,10,New England Deli,American,needs_improvement,2023-05-06,4,0.7906,positive,0.625,0.925,Delivery & Timeliness,0.51,16
+542,7,The Grain Bowl,American,silver,2023-05-07,4,0.6369,positive,0.1333,0.3944,Food Quality & Taste,0.5241,18
+636,8,Mediterranean Table,Mediterranean,platinum,2023-05-07,5,0.7351,positive,0.42,0.66,Value & Pricing,0.5765,24
+33,1,Boston Box Lunch Co.,American,platinum,2023-05-09,5,0.8313,positive,0.25,0.375,Customer Service,0.6859,29
+417,5,Green Garden Catering,Vegetarian,gold,2023-05-10,5,0.5106,positive,0.1571,0.3871,Customer Service,0.6794,21
+359,5,Green Garden Catering,Vegetarian,gold,2023-05-10,5,0.6486,positive,0.3,0.6,Food Quality & Taste,0.506,24
+355,5,Green Garden Catering,Vegetarian,gold,2023-05-10,5,0.7845,positive,0.3667,0.2278,Packaging & Presentation,0.6391,20
+424,5,Green Garden Catering,Vegetarian,gold,2023-05-11,5,0.9184,positive,0.7,0.8333,Customer Service,0.9665,25
+179,3,Harbor Fresh Kitchen,American,silver,2023-05-11,4,0.0,neutral,0.0,0.0,Packaging & Presentation,0.938,11
+674,8,Mediterranean Table,Mediterranean,platinum,2023-05-11,5,0.8689,positive,0.575,0.8625,Value & Pricing,0.51,17
+163,2,Spice Route Catering,Indian,gold,2023-05-11,5,0.624,positive,0.15,0.325,Food Quality & Taste,0.7282,24
+109,2,Spice Route Catering,Indian,gold,2023-05-13,4,0.6249,positive,0.45,0.75,Packaging & Presentation,0.5293,11
+287,4,Bella Cucina Events,Italian,platinum,2023-05-15,5,0.8834,positive,0.8,0.65,Customer Service,0.9378,23
+336,4,Bella Cucina Events,Italian,platinum,2023-05-16,5,0.3818,positive,0.2778,0.4722,Customer Service,0.5179,19
+146,2,Spice Route Catering,Indian,gold,2023-05-16,4,0.0,neutral,0.2286,0.5119,Value & Pricing,0.9323,12
+1053,13,The Smokehouse BBQ,BBQ,silver,2023-05-16,4,0.5106,positive,0.1,0.25,Customer Service,0.933,17
+833,11,Saffron House,Middle Eastern,gold,2023-05-17,4,0.5106,positive,0.4,0.7,Value & Pricing,0.9422,12
+128,2,Spice Route Catering,Indian,gold,2023-05-17,5,0.8357,positive,0.2441,0.6701,Food Quality & Taste,0.357,23
+788,10,New England Deli,American,needs_improvement,2023-05-20,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.9375,17
+827,11,Saffron House,Middle Eastern,gold,2023-05-20,5,0.8779,positive,0.3667,0.625,Customer Service,0.6948,20
+79,1,Boston Box Lunch Co.,American,platinum,2023-05-21,5,0.8357,positive,0.2441,0.6701,Food Quality & Taste,0.357,23
+522,7,The Grain Bowl,American,silver,2023-05-21,4,0.6369,positive,0.4167,0.7083,Food Quality & Taste,0.9271,12
+1173,15,Federal Street Fare,American,needs_improvement,2023-05-22,4,0.7906,positive,0.625,0.925,Value & Pricing,0.5099,16
+707,9,Seoul Kitchen Catering,Korean,gold,2023-05-22,4,0.7269,positive,0.6,1.0,Packaging & Presentation,0.5396,14
+697,9,Seoul Kitchen Catering,Korean,gold,2023-05-22,5,0.8999,positive,0.6333,0.7,Customer Service,0.6166,21
+1095,14,Garden State Greens,Vegetarian,silver,2023-05-22,4,0.3182,positive,0.3,0.5,Delivery & Timeliness,0.6444,10
+1063,14,Garden State Greens,Vegetarian,silver,2023-05-23,4,0.8555,positive,0.525,0.925,Value & Pricing,0.5665,15
+169,2,Spice Route Catering,Indian,gold,2023-05-23,4,0.6124,positive,0.5,0.875,Food Quality & Taste,0.9195,15
+399,5,Green Garden Catering,Vegetarian,gold,2023-05-24,5,0.8481,positive,0.45,0.5667,Packaging & Presentation,0.9714,18
+150,2,Spice Route Catering,Indian,gold,2023-05-25,4,0.9042,positive,0.6,1.0,Customer Service,0.95,16
+330,4,Bella Cucina Events,Italian,platinum,2023-05-26,5,0.8016,positive,0.5333,0.5333,Delivery & Timeliness,0.5819,18
+502,6,Taqueria Del Sol,Mexican,gold,2023-05-27,4,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9332,10
+514,6,Taqueria Del Sol,Mexican,gold,2023-05-28,5,0.7089,positive,0.36,0.64,Value & Pricing,0.4318,20
+491,6,Taqueria Del Sol,Mexican,gold,2023-05-29,5,0.807,positive,0.625,0.925,Value & Pricing,0.9523,19
+451,6,Taqueria Del Sol,Mexican,gold,2023-05-29,4,0.7906,positive,0.8,0.65,Packaging & Presentation,0.927,14
+266,4,Bella Cucina Events,Italian,platinum,2023-05-30,5,0.9217,positive,0.7,0.6,Customer Service,0.9636,28
+365,5,Green Garden Catering,Vegetarian,gold,2023-06-01,5,0.3818,positive,0.4167,0.7083,Packaging & Presentation,0.6766,19
+972,12,Pacific Rim Catering,Asian Fusion,silver,2023-06-01,5,0.7096,positive,0.3,0.3583,Value & Pricing,0.508,20
+842,11,Saffron House,Middle Eastern,gold,2023-06-01,5,0.7574,positive,0.2838,0.5038,Delivery & Timeliness,0.6001,22
+1127,14,Garden State Greens,Vegetarian,silver,2023-06-01,4,0.5574,positive,-0.2,0.6917,Packaging & Presentation,0.509,16
+473,6,Taqueria Del Sol,Mexican,gold,2023-06-02,5,0.6115,positive,0.5,0.5,Packaging & Presentation,0.5731,16
+932,12,Pacific Rim Catering,Asian Fusion,silver,2023-06-02,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.6701,12
+70,1,Boston Box Lunch Co.,American,platinum,2023-06-03,5,0.6908,positive,0.5,0.875,Packaging & Presentation,0.4074,18
+874,11,Saffron House,Middle Eastern,gold,2023-06-03,5,0.7778,positive,0.1588,0.4725,Food Quality & Taste,0.7862,20
+456,6,Taqueria Del Sol,Mexican,gold,2023-06-04,5,0.5267,positive,-0.0667,0.6,Value & Pricing,0.5091,27
+60,1,Boston Box Lunch Co.,American,platinum,2023-06-04,5,0.7906,positive,0.48,0.76,Value & Pricing,0.5463,21
+439,6,Taqueria Del Sol,Mexican,gold,2023-06-05,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8991,10
+1035,13,The Smokehouse BBQ,BBQ,silver,2023-06-05,4,0.8481,positive,0.4833,0.8833,Value & Pricing,0.5666,14
+927,12,Pacific Rim Catering,Asian Fusion,silver,2023-06-07,4,0.7269,positive,0.3952,0.8119,Customer Service,0.5195,15
+1114,14,Garden State Greens,Vegetarian,silver,2023-06-07,4,0.0,neutral,0.2929,0.7179,Packaging & Presentation,0.5791,13
+82,1,Boston Box Lunch Co.,American,platinum,2023-06-08,5,0.6808,positive,0.4667,0.4,Delivery & Timeliness,0.6832,22
+475,6,Taqueria Del Sol,Mexican,gold,2023-06-09,5,0.7089,positive,0.1667,0.6667,Value & Pricing,0.5859,19
+361,5,Green Garden Catering,Vegetarian,gold,2023-06-09,4,0.8442,positive,0.925,0.65,Customer Service,0.9332,18
+262,4,Bella Cucina Events,Italian,platinum,2023-06-10,5,0.6124,positive,0.3619,0.7702,Value & Pricing,0.5495,21
+826,10,New England Deli,American,needs_improvement,2023-06-10,4,0.7906,positive,0.625,0.925,Value & Pricing,0.5099,16
+1166,15,Federal Street Fare,American,needs_improvement,2023-06-11,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.51,15
+460,6,Taqueria Del Sol,Mexican,gold,2023-06-11,4,0.765,positive,0.0,0.0,Packaging & Presentation,0.95,10
+114,2,Spice Route Catering,Indian,gold,2023-06-11,5,0.8479,positive,0.325,0.575,Food Quality & Taste,0.9597,22
+307,4,Bella Cucina Events,Italian,platinum,2023-06-12,5,0.8294,positive,0.5333,0.5333,Food Quality & Taste,0.5774,21
+487,6,Taqueria Del Sol,Mexican,gold,2023-06-13,4,0.3804,positive,0.2,0.3,Food Quality & Taste,0.5427,13
+1116,14,Garden State Greens,Vegetarian,silver,2023-06-16,4,0.5106,positive,0.4171,0.8271,Value & Pricing,0.9555,14
+84,1,Boston Box Lunch Co.,American,platinum,2023-06-16,5,0.8555,positive,0.325,0.5437,Food Quality & Taste,0.593,30
+452,6,Taqueria Del Sol,Mexican,gold,2023-06-17,4,0.8225,positive,0.3,0.6,Food Quality & Taste,0.6099,19
+952,12,Pacific Rim Catering,Asian Fusion,silver,2023-06-17,4,0.5106,positive,0.1,0.2,Customer Service,0.6833,14
+713,9,Seoul Kitchen Catering,Korean,gold,2023-06-18,4,0.8777,positive,0.8,1.0,Customer Service,0.9329,13
+917,12,Pacific Rim Catering,Asian Fusion,silver,2023-06-18,4,0.5106,positive,0.1,0.2,Customer Service,0.6833,14
+17,1,Boston Box Lunch Co.,American,platinum,2023-06-18,5,0.0,neutral,0.1,0.1,Packaging & Presentation,0.9424,18
+389,5,Green Garden Catering,Vegetarian,gold,2023-06-18,5,0.6249,positive,0.45,0.75,Packaging & Presentation,0.5652,18
+547,7,The Grain Bowl,American,silver,2023-06-18,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.9499,16
+26,1,Boston Box Lunch Co.,American,platinum,2023-06-20,4,0.8126,positive,0.2444,0.5444,Food Quality & Taste,0.5343,18
+536,7,The Grain Bowl,American,silver,2023-06-21,4,0.7906,positive,1.0,1.0,Delivery & Timeliness,0.5412,14
+323,4,Bella Cucina Events,Italian,platinum,2023-06-23,5,0.2263,positive,0.2,0.1,Value & Pricing,0.5969,18
+343,4,Bella Cucina Events,Italian,platinum,2023-06-24,5,0.5106,positive,0.4171,0.8271,Value & Pricing,0.9635,21
+1192,15,Federal Street Fare,American,needs_improvement,2023-06-24,4,0.0,neutral,0.1,0.1,Packaging & Presentation,0.5221,13
+267,4,Bella Cucina Events,Italian,platinum,2023-06-25,5,0.8805,positive,0.2337,0.6038,Food Quality & Taste,0.3845,21
+354,5,Green Garden Catering,Vegetarian,gold,2023-06-25,5,0.6582,positive,0.1117,0.4717,Food Quality & Taste,0.5859,22
+488,6,Taqueria Del Sol,Mexican,gold,2023-06-26,4,0.5106,positive,0.1,0.1,Packaging & Presentation,0.9265,10
+170,2,Spice Route Catering,Indian,gold,2023-06-28,4,0.7096,positive,0.0,0.9375,Value & Pricing,0.6375,16
+1086,14,Garden State Greens,Vegetarian,silver,2023-06-29,4,0.7574,positive,0.4333,0.6,Food Quality & Taste,0.9497,16
+1159,15,Federal Street Fare,American,needs_improvement,2023-07-02,4,0.7096,positive,0.4167,0.7083,Packaging & Presentation,0.5857,11
+945,12,Pacific Rim Catering,Asian Fusion,silver,2023-07-03,4,0.8074,positive,0.5,0.875,Packaging & Presentation,0.5539,12
+1167,15,Federal Street Fare,American,needs_improvement,2023-07-04,3,-0.4215,negative,-0.0854,0.7104,Packaging & Presentation,0.8365,23
+914,11,Saffron House,Middle Eastern,gold,2023-07-04,5,0.7783,positive,0.525,0.925,Packaging & Presentation,0.3732,18
+503,6,Taqueria Del Sol,Mexican,gold,2023-07-04,4,0.6369,positive,-0.5,1.0,Value & Pricing,0.5666,14
+14,1,Boston Box Lunch Co.,American,platinum,2023-07-04,4,0.6124,positive,0.2,0.4417,Packaging & Presentation,0.544,12
+413,5,Green Garden Catering,Vegetarian,gold,2023-07-04,5,0.8519,positive,0.7,0.875,Packaging & Presentation,0.968,17
+1198,15,Federal Street Fare,American,needs_improvement,2023-07-04,4,0.8268,positive,1.0,1.0,Delivery & Timeliness,0.9426,14
+430,5,Green Garden Catering,Vegetarian,gold,2023-07-05,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8846,13
+100,2,Spice Route Catering,Indian,gold,2023-07-05,5,0.8316,positive,0.3,0.75,Packaging & Presentation,0.9618,17
+594,8,Mediterranean Table,Mediterranean,platinum,2023-07-08,5,0.765,positive,0.5,0.9,Value & Pricing,0.5156,19
+254,4,Bella Cucina Events,Italian,platinum,2023-07-09,5,0.7579,positive,0.4619,0.7286,Packaging & Presentation,0.5446,17
+527,7,The Grain Bowl,American,silver,2023-07-10,4,0.6369,positive,0.5286,0.5786,Value & Pricing,0.9195,15
+313,4,Bella Cucina Events,Italian,platinum,2023-07-10,5,0.7906,positive,0.4,0.6875,Delivery & Timeliness,0.7262,17
+402,5,Green Garden Catering,Vegetarian,gold,2023-07-10,5,0.8555,positive,0.6,1.0,Packaging & Presentation,0.5575,20
+240,3,Harbor Fresh Kitchen,American,silver,2023-07-10,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,13
+652,8,Mediterranean Table,Mediterranean,platinum,2023-07-12,5,0.802,positive,0.2444,0.4444,Delivery & Timeliness,0.6763,17
+363,5,Green Garden Catering,Vegetarian,gold,2023-07-13,5,0.2263,positive,0.3,0.1,Packaging & Presentation,0.5899,22
+574,7,The Grain Bowl,American,silver,2023-07-13,4,0.7906,positive,0.05,1.0,Value & Pricing,0.5112,17
+901,11,Saffron House,Middle Eastern,gold,2023-07-14,5,0.9118,positive,0.3111,0.7361,Delivery & Timeliness,0.6185,20
+208,3,Harbor Fresh Kitchen,American,silver,2023-07-15,4,0.6808,positive,0.25,1.0,Delivery & Timeliness,0.5099,18
+709,9,Seoul Kitchen Catering,Korean,gold,2023-07-15,4,0.8479,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+734,9,Seoul Kitchen Catering,Korean,gold,2023-07-16,5,0.8481,positive,0.46,0.735,Value & Pricing,0.7303,22
+471,6,Taqueria Del Sol,Mexican,gold,2023-07-16,4,0.765,positive,0.4444,0.7639,Food Quality & Taste,0.9272,13
+216,3,Harbor Fresh Kitchen,American,silver,2023-07-17,5,0.9118,positive,0.7,0.875,Packaging & Presentation,0.645,19
+1093,14,Garden State Greens,Vegetarian,silver,2023-07-17,5,0.765,positive,0.5,0.9,Value & Pricing,0.9635,21
+1079,14,Garden State Greens,Vegetarian,silver,2023-07-18,5,0.8945,positive,0.5088,0.7288,Delivery & Timeliness,0.5443,22
+942,12,Pacific Rim Catering,Asian Fusion,silver,2023-07-19,5,0.7579,positive,0.3,0.3,Packaging & Presentation,0.388,18
+153,2,Spice Route Catering,Indian,gold,2023-07-20,5,0.7906,positive,0.5,0.5,Delivery & Timeliness,0.4182,19
+215,3,Harbor Fresh Kitchen,American,silver,2023-07-20,4,0.4215,positive,-0.5,1.0,Value & Pricing,0.96,18
+268,4,Bella Cucina Events,Italian,platinum,2023-07-22,5,0.624,positive,0.1088,0.3787,Delivery & Timeliness,0.5539,18
+1080,14,Garden State Greens,Vegetarian,silver,2023-07-22,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,10
+292,4,Bella Cucina Events,Italian,platinum,2023-07-23,5,0.7845,positive,0.5,0.4,Food Quality & Taste,0.9194,19
+50,1,Boston Box Lunch Co.,American,platinum,2023-07-24,5,0.9527,positive,0.8,0.9167,Customer Service,0.5882,18
+764,10,New England Deli,American,needs_improvement,2023-07-24,4,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9636,13
+1110,14,Garden State Greens,Vegetarian,silver,2023-07-24,4,0.7089,positive,0.25,1.0,Value & Pricing,0.9378,14
+1102,14,Garden State Greens,Vegetarian,silver,2023-07-24,4,0.6369,positive,0.1333,0.3944,Food Quality & Taste,0.5241,18
+937,12,Pacific Rim Catering,Asian Fusion,silver,2023-07-25,4,0.8271,positive,0.4778,0.8056,Customer Service,0.5539,14
+199,3,Harbor Fresh Kitchen,American,silver,2023-07-25,4,0.5106,positive,0.5,0.9,Value & Pricing,0.7195,12
+119,2,Spice Route Catering,Indian,gold,2023-07-25,5,0.8648,positive,1.0,1.0,Delivery & Timeliness,0.9666,19
+837,11,Saffron House,Middle Eastern,gold,2023-07-26,5,0.8805,positive,0.75,0.75,Customer Service,0.6026,22
+726,9,Seoul Kitchen Catering,Korean,gold,2023-07-27,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.9375,17
+523,7,The Grain Bowl,American,silver,2023-07-27,4,0.6808,positive,0.45,0.8,Value & Pricing,0.5666,12
+584,7,The Grain Bowl,American,silver,2023-07-27,4,0.765,positive,0.5,0.9,Value & Pricing,0.96,14
+973,12,Pacific Rim Catering,Asian Fusion,silver,2023-07-28,4,0.5106,positive,0.1,0.25,Customer Service,0.933,17
+1033,13,The Smokehouse BBQ,BBQ,silver,2023-07-28,4,0.5267,positive,-0.0667,0.6,Value & Pricing,0.4944,20
+253,4,Bella Cucina Events,Italian,platinum,2023-07-28,5,0.7717,positive,0.325,0.275,Food Quality & Taste,0.6473,24
+381,5,Green Garden Catering,Vegetarian,gold,2023-07-29,5,0.7089,positive,0.1667,0.6667,Value & Pricing,0.5859,19
+54,1,Boston Box Lunch Co.,American,platinum,2023-07-29,5,0.6002,positive,0.3833,0.9167,Customer Service,0.3683,24
+812,10,New England Deli,American,needs_improvement,2023-07-29,4,0.802,positive,0.85,1.0,Customer Service,0.5113,15
+477,6,Taqueria Del Sol,Mexican,gold,2023-07-29,4,0.5574,positive,-0.2,0.6917,Packaging & Presentation,0.509,16
+645,8,Mediterranean Table,Mediterranean,platinum,2023-07-29,5,0.7778,positive,0.2,0.275,Food Quality & Taste,0.3727,25
+1100,14,Garden State Greens,Vegetarian,silver,2023-07-30,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8992,13
+334,4,Bella Cucina Events,Italian,platinum,2023-07-30,5,0.8779,positive,0.4667,0.5833,Delivery & Timeliness,0.7261,15
+686,9,Seoul Kitchen Catering,Korean,gold,2023-07-31,5,0.807,positive,0.5,0.5,Packaging & Presentation,0.5078,15
+611,8,Mediterranean Table,Mediterranean,platinum,2023-08-01,5,0.8934,positive,0.9,0.525,Packaging & Presentation,0.6663,18
+907,11,Saffron House,Middle Eastern,gold,2023-08-01,5,0.8221,positive,0.0892,0.3692,Food Quality & Taste,0.7111,28
+1068,14,Garden State Greens,Vegetarian,silver,2023-08-02,5,0.836,positive,0.42,0.7167,Packaging & Presentation,0.3828,26
+36,1,Boston Box Lunch Co.,American,platinum,2023-08-02,5,0.0,neutral,0.05,0.05,Customer Service,0.7054,18
+144,2,Spice Route Catering,Indian,gold,2023-08-03,4,0.6124,positive,0.2,0.4417,Packaging & Presentation,0.544,12
+830,11,Saffron House,Middle Eastern,gold,2023-08-03,5,0.4215,positive,0.0964,0.6339,Value & Pricing,0.9666,24
+669,8,Mediterranean Table,Mediterranean,platinum,2023-08-04,5,0.6124,positive,0.5,0.875,Packaging & Presentation,0.565,20
+383,5,Green Garden Catering,Vegetarian,gold,2023-08-04,5,0.6124,positive,0.5,0.9,Value & Pricing,0.4368,17
+419,5,Green Garden Catering,Vegetarian,gold,2023-08-04,5,0.3612,positive,0.2214,0.5589,Food Quality & Taste,0.5313,25
+756,9,Seoul Kitchen Catering,Korean,gold,2023-08-05,5,0.7269,positive,0.1667,0.4333,Value & Pricing,0.6309,22
+64,1,Boston Box Lunch Co.,American,platinum,2023-08-05,5,0.7184,positive,0.0,0.5,Packaging & Presentation,0.9461,16
+790,10,New England Deli,American,needs_improvement,2023-08-06,4,0.8777,positive,0.8,1.0,Customer Service,0.9329,13
+81,1,Boston Box Lunch Co.,American,platinum,2023-08-06,4,0.5106,positive,0.5,0.9,Value & Pricing,0.9423,15
+648,8,Mediterranean Table,Mediterranean,platinum,2023-08-06,5,0.8176,positive,0.25,0.375,Customer Service,0.6858,26
+327,4,Bella Cucina Events,Italian,platinum,2023-08-06,5,0.6486,positive,-0.2,0.6917,Packaging & Presentation,0.3386,21
+478,6,Taqueria Del Sol,Mexican,gold,2023-08-07,4,0.7906,positive,0.625,0.925,Value & Pricing,0.5099,16
+994,13,The Smokehouse BBQ,BBQ,silver,2023-08-07,4,0.8834,positive,0.8,0.65,Customer Service,0.9109,16
+969,12,Pacific Rim Catering,Asian Fusion,silver,2023-08-09,5,0.6124,positive,0.2929,0.7179,Delivery & Timeliness,0.3679,17
+643,8,Mediterranean Table,Mediterranean,platinum,2023-08-10,4,0.6486,positive,0.3,0.6,Food Quality & Taste,0.5411,17
+379,5,Green Garden Catering,Vegetarian,gold,2023-08-12,4,0.5106,positive,0.5,0.9,Value & Pricing,0.9423,15
+1062,14,Garden State Greens,Vegetarian,silver,2023-08-12,4,0.659,positive,0.45,0.75,Packaging & Presentation,0.5412,14
+168,2,Spice Route Catering,Indian,gold,2023-08-14,5,0.7906,positive,0.05,1.0,Value & Pricing,0.5978,24
+896,11,Saffron House,Middle Eastern,gold,2023-08-15,5,0.8211,positive,0.6111,0.8056,Delivery & Timeliness,0.6033,16
+1189,15,Federal Street Fare,American,needs_improvement,2023-08-16,4,0.0,neutral,0.0,0.0,Packaging & Presentation,0.938,11
+189,3,Harbor Fresh Kitchen,American,silver,2023-08-17,5,0.9117,positive,0.4778,0.7778,Delivery & Timeliness,0.9497,18
+6,1,Boston Box Lunch Co.,American,platinum,2023-08-17,5,0.6486,positive,0.3111,0.6,Packaging & Presentation,0.6882,20
+1170,15,Federal Street Fare,American,needs_improvement,2023-08-17,4,0.5994,positive,0.3778,0.6389,Food Quality & Taste,0.5052,11
+1177,15,Federal Street Fare,American,needs_improvement,2023-08-18,4,0.7269,positive,0.6,1.0,Customer Service,0.933,16
+1059,13,The Smokehouse BBQ,BBQ,silver,2023-08-18,4,0.0,neutral,0.2286,0.5119,Value & Pricing,0.9323,12
+1109,14,Garden State Greens,Vegetarian,silver,2023-08-18,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8836,16
+1163,15,Federal Street Fare,American,needs_improvement,2023-08-20,4,0.0,neutral,0.1,0.1,Delivery & Timeliness,0.8968,13
+195,3,Harbor Fresh Kitchen,American,silver,2023-08-22,4,0.8268,positive,0.45,0.75,Food Quality & Taste,0.5123,16
+89,1,Boston Box Lunch Co.,American,platinum,2023-08-23,5,0.8271,positive,0.4333,0.6667,Delivery & Timeliness,0.9618,20
+1108,14,Garden State Greens,Vegetarian,silver,2023-08-23,4,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9496,12
+754,9,Seoul Kitchen Catering,Korean,gold,2023-08-23,4,0.6369,positive,0.5286,0.5786,Value & Pricing,0.9195,15
+372,5,Green Garden Catering,Vegetarian,gold,2023-08-23,5,0.8176,positive,0.55,0.9375,Packaging & Presentation,0.4079,18
+298,4,Bella Cucina Events,Italian,platinum,2023-08-24,5,0.765,positive,0.2833,0.6042,Delivery & Timeliness,0.5808,17
+243,3,Harbor Fresh Kitchen,American,silver,2023-08-25,5,0.7083,positive,0.3,0.5,Delivery & Timeliness,0.7085,18
+134,2,Spice Route Catering,Indian,gold,2023-08-25,4,0.8225,positive,0.3,0.6,Food Quality & Taste,0.6099,19
+29,1,Boston Box Lunch Co.,American,platinum,2023-08-25,5,0.8126,positive,0.5333,0.3,Value & Pricing,0.4914,21
+147,2,Spice Route Catering,Indian,gold,2023-08-25,4,0.8225,positive,0.3,0.6,Food Quality & Taste,0.6099,19
+200,3,Harbor Fresh Kitchen,American,silver,2023-08-25,4,0.5719,positive,0.55,0.55,Delivery & Timeliness,0.9428,14
+1185,15,Federal Street Fare,American,needs_improvement,2023-08-25,4,0.5859,positive,0.2,0.4333,Food Quality & Taste,0.6502,16
+929,12,Pacific Rim Catering,Asian Fusion,silver,2023-08-25,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.9499,14
+30,1,Boston Box Lunch Co.,American,platinum,2023-08-26,5,0.7089,positive,0.65,0.55,Packaging & Presentation,0.5957,19
+185,3,Harbor Fresh Kitchen,American,silver,2023-08-27,4,0.765,positive,0.0,0.0,Packaging & Presentation,0.95,10
+468,6,Taqueria Del Sol,Mexican,gold,2023-08-27,4,0.6369,positive,0.25,0.925,Value & Pricing,0.9579,16
+966,12,Pacific Rim Catering,Asian Fusion,silver,2023-08-28,4,0.7096,positive,0.4667,0.8233,Value & Pricing,0.9461,13
+407,5,Green Garden Catering,Vegetarian,gold,2023-08-28,5,0.6697,positive,0.4,0.5,Packaging & Presentation,0.3895,26
+464,6,Taqueria Del Sol,Mexican,gold,2023-08-28,5,0.4939,positive,-0.1,0.75,Value & Pricing,0.5892,21
+237,3,Harbor Fresh Kitchen,American,silver,2023-08-29,4,0.7096,positive,0.4167,0.7083,Packaging & Presentation,0.5857,11
+1051,13,The Smokehouse BBQ,BBQ,silver,2023-08-30,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.9499,16
+985,12,Pacific Rim Catering,Asian Fusion,silver,2023-08-31,4,0.6369,positive,-0.1,0.5,Value & Pricing,0.5111,18
+766,10,New England Deli,American,needs_improvement,2023-09-01,4,0.5994,positive,0.3778,0.6389,Food Quality & Taste,0.5052,11
+512,6,Taqueria Del Sol,Mexican,gold,2023-09-01,4,0.3818,positive,0.4167,0.7083,Food Quality & Taste,0.9199,11
+955,12,Pacific Rim Catering,Asian Fusion,silver,2023-09-02,4,0.6124,positive,0.5,0.875,Packaging & Presentation,0.6124,13
+1125,14,Garden State Greens,Vegetarian,silver,2023-09-02,5,0.6124,positive,0.1333,0.3667,Delivery & Timeliness,0.9464,16
+496,6,Taqueria Del Sol,Mexican,gold,2023-09-02,5,0.7089,positive,0.25,1.0,Value & Pricing,0.9494,21
+866,11,Saffron House,Middle Eastern,gold,2023-09-02,4,0.8074,positive,0.2333,0.4583,Customer Service,0.5147,16
+1054,13,The Smokehouse BBQ,BBQ,silver,2023-09-02,4,0.6808,positive,0.3,0.5,Packaging & Presentation,0.5334,10
+853,11,Saffron House,Middle Eastern,gold,2023-09-02,5,0.5994,positive,0.85,1.0,Customer Service,0.5407,23
+49,1,Boston Box Lunch Co.,American,platinum,2023-09-03,4,0.3804,positive,0.3,0.5,Packaging & Presentation,0.5657,14
+703,9,Seoul Kitchen Catering,Korean,gold,2023-09-03,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8983,13
+960,12,Pacific Rim Catering,Asian Fusion,silver,2023-09-03,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.933,10
+984,12,Pacific Rim Catering,Asian Fusion,silver,2023-09-03,5,0.7506,positive,0.2083,0.7292,Value & Pricing,0.6448,27
+642,8,Mediterranean Table,Mediterranean,platinum,2023-09-03,4,0.6369,positive,0.55,0.2,Delivery & Timeliness,0.5141,13
+854,11,Saffron House,Middle Eastern,gold,2023-09-04,5,0.9153,positive,0.5333,0.7083,Food Quality & Taste,0.3569,17
+823,10,New England Deli,American,needs_improvement,2023-09-05,4,0.6369,positive,1.0,0.3,Food Quality & Taste,0.8662,13
+531,7,The Grain Bowl,American,silver,2023-09-08,4,0.8555,positive,0.525,0.925,Value & Pricing,0.5111,15
+637,8,Mediterranean Table,Mediterranean,platinum,2023-09-08,4,0.2263,positive,-0.2,0.55,Value & Pricing,0.9422,14
+668,8,Mediterranean Table,Mediterranean,platinum,2023-09-08,4,0.6115,positive,0.5286,0.8119,Value & Pricing,0.9325,12
+105,2,Spice Route Catering,Indian,gold,2023-09-09,5,0.5106,positive,0.1964,0.4839,Customer Service,0.5706,23
+957,12,Pacific Rim Catering,Asian Fusion,silver,2023-09-09,4,0.8176,positive,0.4222,0.75,Delivery & Timeliness,0.5539,13
+768,10,New England Deli,American,needs_improvement,2023-09-09,4,0.8481,positive,0.4833,0.8833,Value & Pricing,0.5666,14
+505,6,Taqueria Del Sol,Mexican,gold,2023-09-10,4,0.839,positive,1.0,1.0,Delivery & Timeliness,0.9426,14
+409,5,Green Garden Catering,Vegetarian,gold,2023-09-10,4,0.7096,positive,0.2667,0.4667,Delivery & Timeliness,0.9333,12
+944,12,Pacific Rim Catering,Asian Fusion,silver,2023-09-11,4,0.0,neutral,0.1,0.1,Packaging & Presentation,0.9424,11
+25,1,Boston Box Lunch Co.,American,platinum,2023-09-11,5,0.4939,positive,0.15,0.4,Food Quality & Taste,0.391,22
+177,3,Harbor Fresh Kitchen,American,silver,2023-09-12,4,0.6486,positive,0.3,0.6,Food Quality & Taste,0.5411,17
+1151,15,Federal Street Fare,American,needs_improvement,2023-09-12,4,0.8777,positive,0.8,1.0,Customer Service,0.9329,13
+627,8,Mediterranean Table,Mediterranean,platinum,2023-09-13,5,0.8852,positive,0.7667,0.4667,Value & Pricing,0.7457,21
+401,5,Green Garden Catering,Vegetarian,gold,2023-09-14,5,0.7096,positive,0.4167,0.7083,Packaging & Presentation,0.6345,18
+242,3,Harbor Fresh Kitchen,American,silver,2023-09-15,4,0.7906,positive,0.625,0.925,Delivery & Timeliness,0.51,16
+420,5,Green Garden Catering,Vegetarian,gold,2023-09-15,4,0.7096,positive,0.4167,0.7083,Packaging & Presentation,0.5857,11
+877,11,Saffron House,Middle Eastern,gold,2023-09-16,5,0.8807,positive,0.9,0.875,Delivery & Timeliness,0.5101,19
+776,10,New England Deli,American,needs_improvement,2023-09-16,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.6701,12
+1135,14,Garden State Greens,Vegetarian,silver,2023-09-16,5,0.8689,positive,0.48,0.71,Value & Pricing,0.565,17
+133,2,Spice Route Catering,Indian,gold,2023-09-16,5,0.7089,positive,0.3,0.5,Packaging & Presentation,0.501,20
+290,4,Bella Cucina Events,Italian,platinum,2023-09-18,5,0.6597,positive,0.0667,0.3278,Packaging & Presentation,0.9574,18
+744,9,Seoul Kitchen Catering,Korean,gold,2023-09-18,4,0.2263,positive,-0.2,0.55,Value & Pricing,0.9422,14
+252,3,Harbor Fresh Kitchen,American,silver,2023-09-19,4,0.6597,positive,0.4778,0.8056,Packaging & Presentation,0.6133,12
+110,2,Spice Route Catering,Indian,gold,2023-09-19,4,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9332,10
+494,6,Taqueria Del Sol,Mexican,gold,2023-09-21,4,0.0,neutral,0.2286,0.5119,Value & Pricing,0.9323,12
+781,10,New England Deli,American,needs_improvement,2023-09-21,4,0.7783,positive,0.55,0.9375,Packaging & Presentation,0.6133,13
+906,11,Saffron House,Middle Eastern,gold,2023-09-21,5,0.8689,positive,0.45,0.425,Packaging & Presentation,0.9527,15
+485,6,Taqueria Del Sol,Mexican,gold,2023-09-21,5,0.6361,positive,-0.1,0.75,Delivery & Timeliness,0.3736,22
+469,6,Taqueria Del Sol,Mexican,gold,2023-09-23,4,0.7003,positive,0.36,0.7,Food Quality & Taste,0.4941,18
+239,3,Harbor Fresh Kitchen,American,silver,2023-09-24,4,0.6353,positive,0.3,0.5,Food Quality & Taste,0.9499,16
+249,3,Harbor Fresh Kitchen,American,silver,2023-09-24,4,0.6249,positive,0.45,0.75,Packaging & Presentation,0.5293,11
+1031,13,The Smokehouse BBQ,BBQ,silver,2023-09-24,4,0.3612,positive,0.2214,0.5589,Food Quality & Taste,0.5494,18
+95,2,Spice Route Catering,Indian,gold,2023-09-24,4,0.6361,positive,0.3778,0.6389,Food Quality & Taste,0.9428,14
+165,2,Spice Route Catering,Indian,gold,2023-09-24,5,0.6478,positive,0.15,0.5,Packaging & Presentation,0.5825,20
+319,4,Bella Cucina Events,Italian,platinum,2023-09-25,5,0.6115,positive,0.5,0.5,Customer Service,0.9422,18
+762,9,Seoul Kitchen Catering,Korean,gold,2023-09-26,4,0.5574,positive,-0.2,0.6917,Packaging & Presentation,0.509,16
+31,1,Boston Box Lunch Co.,American,platinum,2023-09-27,5,0.5106,positive,0.2929,0.7179,Packaging & Presentation,0.575,19
+120,2,Spice Route Catering,Indian,gold,2023-09-28,4,0.8779,positive,0.55,0.9375,Customer Service,0.5146,15
+963,12,Pacific Rim Catering,Asian Fusion,silver,2023-09-28,4,0.7269,positive,0.6,1.0,Customer Service,0.6834,13
+880,11,Saffron House,Middle Eastern,gold,2023-09-29,5,0.7264,positive,0.303,0.7215,Value & Pricing,0.6741,22
+158,2,Spice Route Catering,Indian,gold,2023-09-30,5,0.2263,positive,0.0286,0.8119,Value & Pricing,0.9635,23
+847,11,Saffron House,Middle Eastern,gold,2023-10-01,4,0.7579,positive,0.65,0.4,Delivery & Timeliness,0.919,13
+98,2,Spice Route Catering,Indian,gold,2023-10-02,5,0.807,positive,0.625,0.925,Value & Pricing,0.9524,19
+782,10,New England Deli,American,needs_improvement,2023-10-02,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8991,10
+139,2,Spice Route Catering,Indian,gold,2023-10-03,5,0.7264,positive,0.0587,0.3538,Customer Service,0.5126,25
+845,11,Saffron House,Middle Eastern,gold,2023-10-03,5,0.7841,positive,0.75,0.75,Customer Service,0.7008,22
+850,11,Saffron House,Middle Eastern,gold,2023-10-03,4,0.3612,positive,0.2214,0.5589,Food Quality & Taste,0.5494,18
+956,12,Pacific Rim Catering,Asian Fusion,silver,2023-10-04,4,0.7269,positive,0.25,0.65,Value & Pricing,0.9331,17
+641,8,Mediterranean Table,Mediterranean,platinum,2023-10-04,5,0.8122,positive,0.1338,0.7288,Delivery & Timeliness,0.3644,26
+422,5,Green Garden Catering,Vegetarian,gold,2023-10-06,5,0.6801,positive,0.1837,0.5038,Packaging & Presentation,0.6452,19
+761,9,Seoul Kitchen Catering,Korean,gold,2023-10-07,5,0.9186,positive,0.5333,0.7917,Customer Service,0.768,27
+844,11,Saffron House,Middle Eastern,gold,2023-10-07,4,0.839,positive,1.0,1.0,Delivery & Timeliness,0.9426,14
+385,5,Green Garden Catering,Vegetarian,gold,2023-10-08,4,0.5859,positive,0.2,0.4333,Food Quality & Taste,0.6502,16
+366,5,Green Garden Catering,Vegetarian,gold,2023-10-08,4,0.6249,positive,0.45,0.75,Packaging & Presentation,0.5293,11
+1037,13,The Smokehouse BBQ,BBQ,silver,2023-10-09,4,0.9042,positive,0.6,1.0,Customer Service,0.95,16
+872,11,Saffron House,Middle Eastern,gold,2023-10-09,5,0.8271,positive,0.05,1.0,Value & Pricing,0.3777,22
+222,3,Harbor Fresh Kitchen,American,silver,2023-10-10,4,0.5994,positive,0.4786,0.8119,Customer Service,0.5796,17
+623,8,Mediterranean Table,Mediterranean,platinum,2023-10-10,5,0.8648,positive,1.0,1.0,Delivery & Timeliness,0.9666,19
+442,6,Taqueria Del Sol,Mexican,gold,2023-10-10,4,0.7778,positive,0.65,0.4,Food Quality & Taste,0.9198,16
+27,1,Boston Box Lunch Co.,American,platinum,2023-10-12,5,0.8225,positive,0.2167,0.6667,Delivery & Timeliness,0.6983,18
+93,2,Spice Route Catering,Indian,gold,2023-10-13,4,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9555,18
+639,8,Mediterranean Table,Mediterranean,platinum,2023-10-13,5,0.8176,positive,1.0,0.3,Packaging & Presentation,0.9424,20
+238,3,Harbor Fresh Kitchen,American,silver,2023-10-14,4,0.8689,positive,0.8,1.0,Delivery & Timeliness,0.5315,17
+51,1,Boston Box Lunch Co.,American,platinum,2023-10-14,5,0.7269,positive,0.3,0.5,Customer Service,0.7765,18
+1196,15,Federal Street Fare,American,needs_improvement,2023-10-15,3,-0.6689,negative,0.325,0.5938,Food Quality & Taste,0.6451,24
+671,8,Mediterranean Table,Mediterranean,platinum,2023-10-15,5,0.8588,positive,0.267,0.403,Food Quality & Taste,0.9636,27
+476,6,Taqueria Del Sol,Mexican,gold,2023-10-15,4,0.5574,positive,0.3,0.5,Delivery & Timeliness,0.9499,10
+688,9,Seoul Kitchen Catering,Korean,gold,2023-10-15,4,0.0,neutral,0.1,0.1,Packaging & Presentation,0.5221,13
+525,7,The Grain Bowl,American,silver,2023-10-16,5,0.6115,positive,0.5286,0.8119,Value & Pricing,0.7989,19
+241,3,Harbor Fresh Kitchen,American,silver,2023-10-16,5,0.8481,positive,0.75,0.5875,Food Quality & Taste,0.8427,22
+164,2,Spice Route Catering,Indian,gold,2023-10-16,4,0.836,positive,0.6,1.0,Packaging & Presentation,0.5111,14
+638,8,Mediterranean Table,Mediterranean,platinum,2023-10-18,5,0.8402,positive,0.3,0.4125,Food Quality & Taste,0.5681,21
+959,12,Pacific Rim Catering,Asian Fusion,silver,2023-10-18,5,0.4215,positive,-0.1,0.55,Value & Pricing,0.81,22
+577,7,The Grain Bowl,American,silver,2023-10-19,4,0.6808,positive,0.3,0.5,Packaging & Presentation,0.5334,10
+22,1,Boston Box Lunch Co.,American,platinum,2023-10-19,5,0.7579,positive,0.45,0.425,Packaging & Presentation,0.9598,16
+1176,15,Federal Street Fare,American,needs_improvement,2023-10-20,4,0.807,positive,0.625,0.925,Value & Pricing,0.9378,12
+516,7,The Grain Bowl,American,silver,2023-10-21,4,0.7717,positive,0.4333,0.3667,Food Quality & Taste,0.9427,19
+510,6,Taqueria Del Sol,Mexican,gold,2023-10-21,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,10
+1148,15,Federal Street Fare,American,needs_improvement,2023-10-22,4,0.7003,positive,0.15,0.4,Food Quality & Taste,0.5978,16
+344,4,Bella Cucina Events,Italian,platinum,2023-10-23,5,0.7774,positive,0.2838,0.5038,Food Quality & Taste,0.6886,18
+8,1,Boston Box Lunch Co.,American,platinum,2023-10-24,4,0.7096,positive,0.2667,0.4667,Delivery & Timeliness,0.9333,12
+691,9,Seoul Kitchen Catering,Korean,gold,2023-10-24,4,0.8271,positive,0.75,0.9375,Delivery & Timeliness,0.5935,16
+140,2,Spice Route Catering,Indian,gold,2023-10-25,5,0.7346,positive,-0.033,0.543,Food Quality & Taste,0.6222,28
+660,8,Mediterranean Table,Mediterranean,platinum,2023-10-26,5,0.802,positive,0.85,1.0,Customer Service,0.5274,22
+912,11,Saffron House,Middle Eastern,gold,2023-10-26,5,0.6697,positive,0.045,0.4328,Packaging & Presentation,0.5162,23
+1020,13,The Smokehouse BBQ,BBQ,silver,2023-10-26,4,0.7096,positive,0.4333,0.8333,Delivery & Timeliness,0.6546,12
+1066,14,Garden State Greens,Vegetarian,silver,2023-10-29,4,0.8555,positive,0.525,0.925,Value & Pricing,0.5665,15
+201,3,Harbor Fresh Kitchen,American,silver,2023-10-30,4,0.3818,positive,0.4167,0.7083,Packaging & Presentation,0.6367,12
+1010,13,The Smokehouse BBQ,BBQ,silver,2023-10-30,4,0.8555,positive,0.2667,0.5,Customer Service,0.9467,17
+322,4,Bella Cucina Events,Italian,platinum,2023-10-30,5,0.9022,positive,0.52,0.79,Value & Pricing,0.4665,17
+698,9,Seoul Kitchen Catering,Korean,gold,2023-10-31,5,0.6908,positive,0.4,0.5333,Packaging & Presentation,0.5924,23
+825,10,New England Deli,American,needs_improvement,2023-11-02,4,0.4019,positive,0.1,0.2417,Packaging & Presentation,0.9495,12
+122,2,Spice Route Catering,Indian,gold,2023-11-03,5,0.5095,positive,0.3,0.5,Delivery & Timeliness,0.3736,19
+188,3,Harbor Fresh Kitchen,American,silver,2023-11-04,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.7286,14
+15,1,Boston Box Lunch Co.,American,platinum,2023-11-04,5,0.8658,positive,0.0333,0.8333,Value & Pricing,0.6276,23
+306,4,Bella Cucina Events,Italian,platinum,2023-11-05,5,0.4201,positive,0.045,0.3383,Food Quality & Taste,0.6779,21
+1126,14,Garden State Greens,Vegetarian,silver,2023-11-06,4,0.7096,positive,0.4667,0.8233,Value & Pricing,0.9496,13
+871,11,Saffron House,Middle Eastern,gold,2023-11-06,4,0.6124,positive,0.5,0.875,Packaging & Presentation,0.5741,13
+572,7,The Grain Bowl,American,silver,2023-11-07,4,0.6249,positive,0.2833,0.5542,Food Quality & Taste,0.9555,17
+954,12,Pacific Rim Catering,Asian Fusion,silver,2023-11-07,5,0.6124,positive,0.0,0.0,Delivery & Timeliness,0.4864,18
+353,5,Green Garden Catering,Vegetarian,gold,2023-11-07,5,0.8834,positive,0.3083,0.5333,Customer Service,0.3613,30
+905,11,Saffron House,Middle Eastern,gold,2023-11-08,5,0.6597,positive,0.2667,0.4333,Food Quality & Taste,0.5628,28
+778,10,New England Deli,American,needs_improvement,2023-11-08,4,0.3612,positive,0.1333,0.3,Food Quality & Taste,0.6788,16
+879,11,Saffron House,Middle Eastern,gold,2023-11-10,5,0.8689,positive,0.8,1.0,Delivery & Timeliness,0.566,24
+614,8,Mediterranean Table,Mediterranean,platinum,2023-11-11,5,0.8779,positive,0.6,1.0,Delivery & Timeliness,0.3679,18
+193,3,Harbor Fresh Kitchen,American,silver,2023-11-11,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8991,10
+107,2,Spice Route Catering,Indian,gold,2023-11-12,5,0.0,neutral,0.2929,0.7179,Value & Pricing,0.9459,22
+654,8,Mediterranean Table,Mediterranean,platinum,2023-11-15,5,0.5423,positive,0.3778,0.5056,Value & Pricing,0.7322,22
+448,6,Taqueria Del Sol,Mexican,gold,2023-11-16,4,0.7574,positive,0.575,0.75,Customer Service,0.5114,18
+758,9,Seoul Kitchen Catering,Korean,gold,2023-11-18,4,0.7845,positive,0.55,0.3417,Packaging & Presentation,0.9426,15
+1143,15,Federal Street Fare,American,needs_improvement,2023-11-18,4,0.0,neutral,0.2929,0.7179,Packaging & Presentation,0.5791,13
+269,4,Bella Cucina Events,Italian,platinum,2023-11-19,5,0.6597,positive,0.4778,0.8056,Packaging & Presentation,0.6582,19
+628,8,Mediterranean Table,Mediterranean,platinum,2023-11-19,4,0.6361,positive,0.3778,0.6389,Food Quality & Taste,0.9428,14
+80,1,Boston Box Lunch Co.,American,platinum,2023-11-20,5,0.4939,positive,0.15,0.4,Food Quality & Taste,0.6046,24
+857,11,Saffron House,Middle Eastern,gold,2023-11-20,5,0.8381,positive,0.1338,0.7288,Value & Pricing,0.5167,22
+151,2,Spice Route Catering,Indian,gold,2023-11-20,4,0.8479,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+607,8,Mediterranean Table,Mediterranean,platinum,2023-11-22,4,0.3818,positive,0.3548,0.7131,Value & Pricing,0.9422,13
+86,1,Boston Box Lunch Co.,American,platinum,2023-11-23,5,0.8479,positive,0.6667,0.4333,Customer Service,0.9325,18
+1002,13,The Smokehouse BBQ,BBQ,silver,2023-11-23,4,0.8779,positive,0.55,0.9375,Customer Service,0.5146,15
+171,2,Spice Route Catering,Indian,gold,2023-11-23,4,0.836,positive,1.0,0.65,Delivery & Timeliness,0.9266,17
+829,11,Saffron House,Middle Eastern,gold,2023-11-24,5,0.8481,positive,0.3333,0.4111,Packaging & Presentation,0.9634,17
+551,7,The Grain Bowl,American,silver,2023-11-25,4,0.8481,positive,0.4833,0.8833,Value & Pricing,0.5666,14
+339,4,Bella Cucina Events,Italian,platinum,2023-11-25,5,0.9081,positive,0.5222,0.8111,Value & Pricing,0.6909,18
+459,6,Taqueria Del Sol,Mexican,gold,2023-11-26,4,0.8225,positive,0.3,0.6,Food Quality & Taste,0.5894,19
+695,9,Seoul Kitchen Catering,Korean,gold,2023-11-26,5,0.8979,positive,0.5,0.5583,Food Quality & Taste,0.933,21
+501,6,Taqueria Del Sol,Mexican,gold,2023-11-27,5,0.3804,positive,0.15,0.25,Food Quality & Taste,0.5546,21
+1162,15,Federal Street Fare,American,needs_improvement,2023-11-27,3,-0.5656,negative,-0.19,0.59,Customer Service,0.8641,27
+1023,13,The Smokehouse BBQ,BBQ,silver,2023-11-28,4,0.3818,positive,0.4167,0.7083,Packaging & Presentation,0.6367,12
+817,10,New England Deli,American,needs_improvement,2023-11-28,4,0.6808,positive,0.1667,0.3333,Delivery & Timeliness,0.5124,14
+911,11,Saffron House,Middle Eastern,gold,2023-11-28,5,0.8265,positive,0.1117,0.4717,Food Quality & Taste,0.6334,21
+1,1,Boston Box Lunch Co.,American,platinum,2023-11-28,4,0.4215,positive,0.6,1.0,Packaging & Presentation,0.9425,11
+289,4,Bella Cucina Events,Italian,platinum,2023-11-28,5,0.7269,positive,0.26,0.76,Value & Pricing,0.9692,24
+1136,14,Garden State Greens,Vegetarian,silver,2023-11-29,4,0.6369,positive,0.5286,0.5786,Value & Pricing,0.9195,15
+856,11,Saffron House,Middle Eastern,gold,2023-11-29,4,0.6369,positive,-0.1,0.5,Value & Pricing,0.5111,18
+690,9,Seoul Kitchen Catering,Korean,gold,2023-11-29,5,0.6369,positive,0.1,0.2958,Food Quality & Taste,0.4193,23
+152,2,Spice Route Catering,Indian,gold,2023-11-29,5,0.8779,positive,0.525,0.925,Value & Pricing,0.3286,20
+124,2,Spice Route Catering,Indian,gold,2023-11-30,5,0.5423,positive,0.3083,0.4042,Value & Pricing,0.7392,19
+1138,14,Garden State Greens,Vegetarian,silver,2023-11-30,4,0.7089,positive,0.45,0.8,Value & Pricing,0.5519,15
+597,8,Mediterranean Table,Mediterranean,platinum,2023-11-30,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8991,10
+824,10,New England Deli,American,needs_improvement,2023-11-30,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.51,15
+324,4,Bella Cucina Events,Italian,platinum,2023-12-01,5,0.0,neutral,0.2929,0.7179,Value & Pricing,0.7216,19
+228,3,Harbor Fresh Kitchen,American,silver,2023-12-02,4,0.3612,positive,0.1333,0.3,Food Quality & Taste,0.6788,16
+743,9,Seoul Kitchen Catering,Korean,gold,2023-12-02,5,0.807,positive,0.4,0.5,Customer Service,0.946,21
+887,11,Saffron House,Middle Eastern,gold,2023-12-04,4,0.4939,positive,-0.1,0.75,Value & Pricing,0.5666,14
+596,8,Mediterranean Table,Mediterranean,platinum,2023-12-05,5,0.802,positive,0.5875,0.925,Customer Service,0.5241,24
+803,10,New England Deli,American,needs_improvement,2023-12-05,4,0.743,positive,0.6111,0.8056,Delivery & Timeliness,0.5754,15
+693,9,Seoul Kitchen Catering,Korean,gold,2023-12-06,4,0.4215,positive,0.3952,0.8119,Packaging & Presentation,0.604,13
+137,2,Spice Route Catering,Indian,gold,2023-12-06,5,0.5423,positive,0.3778,0.5056,Value & Pricing,0.5373,20
+974,12,Pacific Rim Catering,Asian Fusion,silver,2023-12-06,4,0.6115,positive,1.0,1.0,Packaging & Presentation,0.9418,11
+88,1,Boston Box Lunch Co.,American,platinum,2023-12-06,5,0.765,positive,0.0,0.9375,Value & Pricing,0.4079,21
+58,1,Boston Box Lunch Co.,American,platinum,2023-12-07,5,0.2263,positive,-0.5,1.0,Value & Pricing,0.7428,21
+943,12,Pacific Rim Catering,Asian Fusion,silver,2023-12-08,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.5425,17
+454,6,Taqueria Del Sol,Mexican,gold,2023-12-08,4,0.8126,positive,0.45,0.75,Customer Service,0.5125,13
+1128,14,Garden State Greens,Vegetarian,silver,2023-12-09,4,0.8399,positive,0.75,0.9375,Food Quality & Taste,0.9104,12
+836,11,Saffron House,Middle Eastern,gold,2023-12-10,4,0.6361,positive,0.3778,0.6389,Food Quality & Taste,0.9428,14
+550,7,The Grain Bowl,American,silver,2023-12-10,4,0.7184,positive,0.4,0.7708,Packaging & Presentation,0.509,14
+221,3,Harbor Fresh Kitchen,American,silver,2023-12-10,4,0.5106,positive,0.2929,0.7179,Packaging & Presentation,0.5512,12
+337,4,Bella Cucina Events,Italian,platinum,2023-12-11,4,0.8777,positive,0.8,1.0,Customer Service,0.9329,13
+481,6,Taqueria Del Sol,Mexican,gold,2023-12-13,5,0.8957,positive,0.55,0.9375,Delivery & Timeliness,0.3623,20
+1049,13,The Smokehouse BBQ,BBQ,silver,2023-12-13,4,0.6124,positive,0.5,0.875,Food Quality & Taste,0.911,12
+712,9,Seoul Kitchen Catering,Korean,gold,2023-12-13,5,0.83,positive,0.5333,0.5333,Food Quality & Taste,0.5775,21
+1188,15,Federal Street Fare,American,needs_improvement,2023-12-13,4,0.6808,positive,0.45,0.8,Value & Pricing,0.5666,12
+1140,14,Garden State Greens,Vegetarian,silver,2023-12-15,5,0.5719,positive,0.3667,0.3667,Delivery & Timeliness,0.6947,19
+672,8,Mediterranean Table,Mediterranean,platinum,2023-12-15,4,0.4939,positive,-0.1,0.75,Value & Pricing,0.5666,14
+19,1,Boston Box Lunch Co.,American,platinum,2023-12-15,5,0.5709,positive,-0.155,0.6383,Value & Pricing,0.3615,23
+740,9,Seoul Kitchen Catering,Korean,gold,2023-12-16,5,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9495,20
+418,5,Green Garden Catering,Vegetarian,gold,2023-12-16,5,0.8591,positive,0.5,0.8429,Value & Pricing,0.6834,26
+767,10,New England Deli,American,needs_improvement,2023-12-16,4,0.5719,positive,0.05,1.0,Packaging & Presentation,0.5099,15
+816,10,New England Deli,American,needs_improvement,2023-12-19,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.9499,16
+341,4,Bella Cucina Events,Italian,platinum,2023-12-22,5,0.6369,positive,0.4,0.5,Packaging & Presentation,0.3812,23
+564,7,The Grain Bowl,American,silver,2023-12-22,4,0.5574,positive,0.3,0.5,Delivery & Timeliness,0.9499,10
+380,5,Green Garden Catering,Vegetarian,gold,2023-12-23,5,0.7506,positive,0.2083,0.7292,Value & Pricing,0.6448,27
+936,12,Pacific Rim Catering,Asian Fusion,silver,2023-12-23,4,0.7645,positive,0.4,0.6875,Food Quality & Taste,0.9384,15
+772,10,New England Deli,American,needs_improvement,2023-12-24,4,0.6124,positive,0.5,0.875,Food Quality & Taste,0.9199,12
+212,3,Harbor Fresh Kitchen,American,silver,2023-12-26,5,0.7096,positive,0.3397,0.7563,Value & Pricing,0.4922,21
+682,9,Seoul Kitchen Catering,Korean,gold,2023-12-26,4,0.5106,positive,0.1,0.1,Packaging & Presentation,0.9265,10
+338,4,Bella Cucina Events,Italian,platinum,2023-12-26,5,0.8126,positive,0.3,0.5,Customer Service,0.6286,18
+819,10,New England Deli,American,needs_improvement,2023-12-26,4,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.8602,15
+934,12,Pacific Rim Catering,Asian Fusion,silver,2023-12-27,4,0.4215,positive,0.6,1.0,Packaging & Presentation,0.9425,14
+834,11,Saffron House,Middle Eastern,gold,2023-12-27,5,0.7096,positive,0.0,0.9375,Value & Pricing,0.6533,23
+951,12,Pacific Rim Catering,Asian Fusion,silver,2023-12-28,4,0.8176,positive,0.4,0.2667,Customer Service,0.9109,17
+591,8,Mediterranean Table,Mediterranean,platinum,2023-12-28,5,0.9337,positive,0.5667,0.8333,Customer Service,0.9714,28
+1092,14,Garden State Greens,Vegetarian,silver,2023-12-29,4,0.6115,positive,1.0,1.0,Packaging & Presentation,0.9418,11
+581,7,The Grain Bowl,American,silver,2023-12-29,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.6016,17
+67,1,Boston Box Lunch Co.,American,platinum,2023-12-29,5,0.6808,positive,0.3,0.4417,Packaging & Presentation,0.6844,25
+421,5,Green Garden Catering,Vegetarian,gold,2023-12-30,5,0.6597,positive,0.2771,0.5471,Customer Service,0.3644,30
+304,4,Bella Cucina Events,Italian,platinum,2023-12-30,5,0.5106,positive,0.3476,0.6893,Value & Pricing,0.7476,19
+1101,14,Garden State Greens,Vegetarian,silver,2023-12-30,5,0.2263,positive,0.2952,0.5119,Value & Pricing,0.9552,23
+1172,15,Federal Street Fare,American,needs_improvement,2023-12-30,4,0.7269,positive,0.25,0.65,Value & Pricing,0.9331,17
+1085,14,Garden State Greens,Vegetarian,silver,2023-12-30,4,0.3182,positive,0.2952,0.6452,Delivery & Timeliness,0.5124,12
+395,5,Green Garden Catering,Vegetarian,gold,2024-01-02,4,0.5106,positive,0.2929,0.7179,Packaging & Presentation,0.5512,12
+633,8,Mediterranean Table,Mediterranean,platinum,2024-01-02,5,0.7713,positive,0.3667,0.5333,Delivery & Timeliness,0.9327,16
+273,4,Bella Cucina Events,Italian,platinum,2024-01-03,5,0.7645,positive,0.4,0.6875,Food Quality & Taste,0.9552,22
+1041,13,The Smokehouse BBQ,BBQ,silver,2024-01-04,4,0.6124,positive,0.3,0.4875,Food Quality & Taste,0.6088,12
+297,4,Bella Cucina Events,Italian,platinum,2024-01-04,5,0.8777,positive,0.3392,0.7483,Food Quality & Taste,0.567,22
+1187,15,Federal Street Fare,American,needs_improvement,2024-01-05,4,0.624,positive,0.2,0.4333,Food Quality & Taste,0.9599,19
+807,10,New England Deli,American,needs_improvement,2024-01-06,4,0.5719,positive,0.55,0.55,Delivery & Timeliness,0.9428,14
+868,11,Saffron House,Middle Eastern,gold,2024-01-06,5,0.5267,positive,0.2371,0.4671,Value & Pricing,0.5458,26
+472,6,Taqueria Del Sol,Mexican,gold,2024-01-07,4,0.7003,positive,0.36,0.7,Food Quality & Taste,0.4941,18
+809,10,New England Deli,American,needs_improvement,2024-01-07,4,0.7269,positive,0.6,1.0,Customer Service,0.933,16
+1000,13,The Smokehouse BBQ,BBQ,silver,2024-01-07,4,0.0,neutral,0.1,0.1,Delivery & Timeliness,0.8968,13
+197,3,Harbor Fresh Kitchen,American,silver,2024-01-07,5,0.7713,positive,0.3667,0.5333,Delivery & Timeliness,0.9327,16
+549,7,The Grain Bowl,American,silver,2024-01-07,4,0.624,positive,0.2,0.4333,Food Quality & Taste,0.9599,19
+115,2,Spice Route Catering,Indian,gold,2024-01-08,5,0.2263,positive,0.0286,0.8119,Value & Pricing,0.9635,23
+865,11,Saffron House,Middle Eastern,gold,2024-01-08,5,0.836,positive,0.6667,0.4333,Delivery & Timeliness,0.5583,22
+870,11,Saffron House,Middle Eastern,gold,2024-01-09,5,0.7351,positive,0.5,0.8,Value & Pricing,0.3828,25
+511,6,Taqueria Del Sol,Mexican,gold,2024-01-09,4,0.8268,positive,0.45,0.75,Food Quality & Taste,0.5123,16
+1178,15,Federal Street Fare,American,needs_improvement,2024-01-10,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.6016,17
+813,10,New England Deli,American,needs_improvement,2024-01-10,4,0.8481,positive,0.75,0.5875,Food Quality & Taste,0.8998,15
+1144,15,Federal Street Fare,American,needs_improvement,2024-01-11,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.942,17
+251,3,Harbor Fresh Kitchen,American,silver,2024-01-13,5,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9496,17
+702,9,Seoul Kitchen Catering,Korean,gold,2024-01-13,5,0.7506,positive,0.3667,0.5333,Delivery & Timeliness,0.9528,20
+1174,15,Federal Street Fare,American,needs_improvement,2024-01-15,4,0.5106,positive,0.4,0.7,Value & Pricing,0.9422,12
+296,4,Bella Cucina Events,Italian,platinum,2024-01-16,5,0.5267,positive,0.175,0.25,Food Quality & Taste,0.4688,24
+1074,14,Garden State Greens,Vegetarian,silver,2024-01-16,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.51,15
+741,9,Seoul Kitchen Catering,Korean,gold,2024-01-17,5,0.7579,positive,0.8,0.75,Packaging & Presentation,0.9692,17
+245,3,Harbor Fresh Kitchen,American,silver,2024-01-18,4,0.7089,positive,0.3,0.5,Packaging & Presentation,0.5124,13
+210,3,Harbor Fresh Kitchen,American,silver,2024-01-18,4,0.7717,positive,0.4333,0.3667,Food Quality & Taste,0.9427,19
+159,2,Spice Route Catering,Indian,gold,2024-01-18,5,0.4215,positive,0.3952,0.8119,Packaging & Presentation,0.6428,20
+735,9,Seoul Kitchen Catering,Korean,gold,2024-01-18,4,0.3804,positive,0.3,0.5,Food Quality & Taste,0.9332,13
+412,5,Green Garden Catering,Vegetarian,gold,2024-01-19,5,0.7579,positive,0.125,0.325,Food Quality & Taste,0.4337,25
+883,11,Saffron House,Middle Eastern,gold,2024-01-20,5,0.3818,positive,0.3548,0.7131,Value & Pricing,0.9492,20
+820,10,New England Deli,American,needs_improvement,2024-01-21,4,0.7003,positive,0.125,0.325,Food Quality & Taste,0.6099,20
+457,6,Taqueria Del Sol,Mexican,gold,2024-01-21,4,0.7269,positive,0.6,1.0,Packaging & Presentation,0.5396,14
+174,2,Spice Route Catering,Indian,gold,2024-01-21,4,0.8126,positive,0.45,0.75,Customer Service,0.5125,13
+1180,15,Federal Street Fare,American,needs_improvement,2024-01-22,4,0.3818,positive,0.3111,0.5056,Food Quality & Taste,0.6198,11
+590,8,Mediterranean Table,Mediterranean,platinum,2024-01-24,5,0.5574,positive,-0.25,0.75,Value & Pricing,0.5001,21
+325,4,Bella Cucina Events,Italian,platinum,2024-01-24,5,0.9062,positive,0.4333,0.7083,Value & Pricing,0.4136,23
+888,11,Saffron House,Middle Eastern,gold,2024-01-24,4,0.5267,positive,-0.0667,0.6,Value & Pricing,0.4944,20
+859,11,Saffron House,Middle Eastern,gold,2024-01-25,4,0.0,neutral,0.1,0.1,Food Quality & Taste,0.4569,10
+930,12,Pacific Rim Catering,Asian Fusion,silver,2024-01-25,4,0.7089,positive,0.3,0.5,Packaging & Presentation,0.5124,13
+213,3,Harbor Fresh Kitchen,American,silver,2024-01-25,4,0.7096,positive,0.4667,0.8233,Value & Pricing,0.9496,13
+1117,14,Garden State Greens,Vegetarian,silver,2024-01-26,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.933,10
+173,2,Spice Route Catering,Indian,gold,2024-01-28,5,0.5106,positive,0.5,0.9,Value & Pricing,0.5683,20
+903,11,Saffron House,Middle Eastern,gold,2024-01-28,5,0.6705,positive,0.4444,0.6389,Customer Service,0.3994,24
+1094,14,Garden State Greens,Vegetarian,silver,2024-01-29,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9266,10
+1032,13,The Smokehouse BBQ,BBQ,silver,2024-01-30,4,0.7269,positive,0.6,1.0,Customer Service,0.9269,16
+635,8,Mediterranean Table,Mediterranean,platinum,2024-01-30,5,0.7184,positive,0.3,0.6,Food Quality & Taste,0.39,22
+466,6,Taqueria Del Sol,Mexican,gold,2024-01-30,4,0.7096,positive,0.0,0.9375,Value & Pricing,0.6375,16
+225,3,Harbor Fresh Kitchen,American,silver,2024-01-31,5,0.5267,positive,0.2,0.3,Food Quality & Taste,0.423,25
+852,11,Saffron House,Middle Eastern,gold,2024-02-01,5,0.9062,positive,0.3667,0.5167,Packaging & Presentation,0.5222,21
+895,11,Saffron House,Middle Eastern,gold,2024-02-01,4,0.6124,positive,0.3619,0.7702,Value & Pricing,0.568,14
+601,8,Mediterranean Table,Mediterranean,platinum,2024-02-03,5,0.8126,positive,0.3,0.5,Customer Service,0.6286,18
+999,13,The Smokehouse BBQ,BBQ,silver,2024-02-04,4,0.8555,positive,0.6,1.0,Packaging & Presentation,0.5123,13
+181,3,Harbor Fresh Kitchen,American,silver,2024-02-05,4,0.624,positive,0.2,0.4333,Food Quality & Taste,0.9599,19
+261,4,Bella Cucina Events,Italian,platinum,2024-02-05,5,0.6115,positive,0.55,0.55,Delivery & Timeliness,0.7775,17
+230,3,Harbor Fresh Kitchen,American,silver,2024-02-06,5,0.4939,positive,0.15,0.4,Food Quality & Taste,0.6046,24
+34,1,Boston Box Lunch Co.,American,platinum,2024-02-06,5,0.8519,positive,0.3,0.6,Food Quality & Taste,0.4192,24
+204,3,Harbor Fresh Kitchen,American,silver,2024-02-07,5,0.7328,positive,0.65,0.55,Value & Pricing,0.9371,21
+206,3,Harbor Fresh Kitchen,American,silver,2024-02-07,4,0.0,neutral,0.2929,0.7179,Packaging & Presentation,0.5791,13
+1045,13,The Smokehouse BBQ,BBQ,silver,2024-02-08,4,0.8225,positive,0.3,0.6,Food Quality & Taste,0.6099,19
+987,12,Pacific Rim Catering,Asian Fusion,silver,2024-02-09,4,0.8555,positive,0.525,0.925,Value & Pricing,0.5111,15
+1160,15,Federal Street Fare,American,needs_improvement,2024-02-09,4,0.6369,positive,1.0,0.3,Packaging & Presentation,0.9331,14
+904,11,Saffron House,Middle Eastern,gold,2024-02-09,5,0.6124,positive,0.15,0.5,Packaging & Presentation,0.5451,17
+634,8,Mediterranean Table,Mediterranean,platinum,2024-02-10,5,0.4404,positive,0.3343,0.6743,Value & Pricing,0.5668,26
+626,8,Mediterranean Table,Mediterranean,platinum,2024-02-10,5,0.6353,positive,0.3,0.5,Delivery & Timeliness,0.5717,20
+774,10,New England Deli,American,needs_improvement,2024-02-10,4,0.4019,positive,0.1,0.2417,Packaging & Presentation,0.9495,12
+725,9,Seoul Kitchen Catering,Korean,gold,2024-02-10,5,0.5413,positive,0.2964,0.5089,Value & Pricing,0.6362,23
+558,7,The Grain Bowl,American,silver,2024-02-11,4,0.3182,positive,0.3,0.5,Packaging & Presentation,0.5882,11
+892,11,Saffron House,Middle Eastern,gold,2024-02-12,5,0.8689,positive,0.48,0.71,Value & Pricing,0.6513,17
+655,8,Mediterranean Table,Mediterranean,platinum,2024-02-13,5,0.9324,positive,0.3087,0.7288,Customer Service,0.6335,24
+281,4,Bella Cucina Events,Italian,platinum,2024-02-14,5,0.6808,positive,0.15,0.25,Packaging & Presentation,0.3752,15
+1105,14,Garden State Greens,Vegetarian,silver,2024-02-14,4,0.3804,positive,0.3,0.5,Packaging & Presentation,0.5657,14
+375,5,Green Garden Catering,Vegetarian,gold,2024-02-14,5,0.8221,positive,0.0838,0.4287,Food Quality & Taste,0.7158,24
+388,5,Green Garden Catering,Vegetarian,gold,2024-02-15,5,0.2263,positive,-0.5,1.0,Value & Pricing,0.7315,21
+351,5,Green Garden Catering,Vegetarian,gold,2024-02-15,5,0.6124,positive,0.5,0.875,Packaging & Presentation,0.565,20
+659,8,Mediterranean Table,Mediterranean,platinum,2024-02-15,5,0.2263,positive,0.3,0.1,Packaging & Presentation,0.5899,22
+605,8,Mediterranean Table,Mediterranean,platinum,2024-02-16,5,0.802,positive,0.47,0.74,Customer Service,0.608,22
+403,5,Green Garden Catering,Vegetarian,gold,2024-02-17,5,0.7169,positive,0.5611,0.8056,Customer Service,0.408,21
+85,1,Boston Box Lunch Co.,American,platinum,2024-02-18,5,0.3612,positive,0.1,0.2667,Food Quality & Taste,0.691,21
+769,10,New England Deli,American,needs_improvement,2024-02-20,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.9499,14
+988,12,Pacific Rim Catering,Asian Fusion,silver,2024-02-20,4,0.4215,positive,0.6,1.0,Packaging & Presentation,0.9425,14
+425,5,Green Garden Catering,Vegetarian,gold,2024-02-20,5,0.5106,positive,0.4167,0.7083,Food Quality & Taste,0.5278,16
+913,11,Saffron House,Middle Eastern,gold,2024-02-20,5,0.7579,positive,0.45,0.425,Packaging & Presentation,0.9421,15
+900,11,Saffron House,Middle Eastern,gold,2024-02-21,5,0.6124,positive,0.2714,0.5777,Customer Service,0.354,19
+1021,13,The Smokehouse BBQ,BBQ,silver,2024-02-22,4,0.0,neutral,0.0,0.0,Packaging & Presentation,0.938,11
+524,7,The Grain Bowl,American,silver,2024-02-22,5,0.5719,positive,0.3667,0.3667,Delivery & Timeliness,0.6947,19
+997,13,The Smokehouse BBQ,BBQ,silver,2024-02-22,4,0.3182,positive,0.3,0.5,Delivery & Timeliness,0.6444,10
+1131,14,Garden State Greens,Vegetarian,silver,2024-02-22,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.933,10
+258,4,Bella Cucina Events,Italian,platinum,2024-02-24,5,0.3818,positive,0.4167,0.7083,Packaging & Presentation,0.6766,19
+161,2,Spice Route Catering,Indian,gold,2024-02-25,4,0.6369,positive,-0.5,1.0,Value & Pricing,0.5666,14
+618,8,Mediterranean Table,Mediterranean,platinum,2024-02-25,5,0.9022,positive,0.6667,0.5583,Customer Service,0.6397,27
+971,12,Pacific Rim Catering,Asian Fusion,silver,2024-02-26,5,0.6124,positive,0.3619,0.7702,Value & Pricing,0.5508,21
+340,4,Bella Cucina Events,Italian,platinum,2024-02-27,5,0.6124,positive,0.5,0.9,Value & Pricing,0.4368,17
+1043,13,The Smokehouse BBQ,BBQ,silver,2024-02-27,4,0.8176,positive,1.0,0.3,Packaging & Presentation,0.9197,13
+658,8,Mediterranean Table,Mediterranean,platinum,2024-02-27,4,0.6353,positive,0.3,0.5,Food Quality & Taste,0.9499,16
+1048,13,The Smokehouse BBQ,BBQ,silver,2024-02-28,4,0.0,neutral,0.1,0.1,Food Quality & Taste,0.328,10
+631,8,Mediterranean Table,Mediterranean,platinum,2024-02-28,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.5425,17
+793,10,New England Deli,American,needs_improvement,2024-02-29,4,0.6249,positive,0.45,0.75,Packaging & Presentation,0.5293,11
+260,4,Bella Cucina Events,Italian,platinum,2024-02-29,5,0.0,neutral,0.2286,0.5119,Value & Pricing,0.7509,19
+205,3,Harbor Fresh Kitchen,American,silver,2024-03-01,4,0.8581,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+513,6,Taqueria Del Sol,Mexican,gold,2024-03-01,4,0.7645,positive,0.6111,0.8056,Food Quality & Taste,0.9194,11
+724,9,Seoul Kitchen Catering,Korean,gold,2024-03-02,5,0.742,positive,-0.0413,0.6038,Food Quality & Taste,0.5846,25
+236,3,Harbor Fresh Kitchen,American,silver,2024-03-02,4,0.6369,positive,-0.1,0.5,Value & Pricing,0.5111,18
+203,3,Harbor Fresh Kitchen,American,silver,2024-03-03,4,0.7096,positive,0.4167,0.7083,Packaging & Presentation,0.5857,11
+1083,14,Garden State Greens,Vegetarian,silver,2024-03-03,4,0.8126,positive,1.0,1.0,Delivery & Timeliness,0.9579,18
+629,8,Mediterranean Table,Mediterranean,platinum,2024-03-04,5,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9634,25
+992,13,The Smokehouse BBQ,BBQ,silver,2024-03-04,4,0.5423,positive,0.1111,0.8056,Value & Pricing,0.9495,15
+68,1,Boston Box Lunch Co.,American,platinum,2024-03-06,5,0.872,positive,0.75,0.75,Customer Service,0.3928,26
+719,9,Seoul Kitchen Catering,Korean,gold,2024-03-07,4,0.7003,positive,0.125,0.325,Food Quality & Taste,0.6099,20
+433,5,Green Garden Catering,Vegetarian,gold,2024-03-07,5,0.8479,positive,1.0,0.65,Food Quality & Taste,0.7302,20
+801,10,New England Deli,American,needs_improvement,2024-03-09,4,0.6369,positive,-0.1,0.5,Value & Pricing,0.5111,18
+705,9,Seoul Kitchen Catering,Korean,gold,2024-03-09,5,0.7845,positive,0.5,0.4,Packaging & Presentation,0.9496,20
+277,4,Bella Cucina Events,Italian,platinum,2024-03-11,5,0.4201,positive,0.045,0.3383,Packaging & Presentation,0.5991,19
+990,12,Pacific Rim Catering,Asian Fusion,silver,2024-03-12,4,0.3818,positive,0.3548,0.7131,Value & Pricing,0.9422,13
+479,6,Taqueria Del Sol,Mexican,gold,2024-03-12,4,0.6478,positive,0.2,0.4417,Packaging & Presentation,0.5823,15
+282,4,Bella Cucina Events,Italian,platinum,2024-03-16,5,0.5859,positive,0.1464,0.7339,Value & Pricing,0.6577,28
+1076,14,Garden State Greens,Vegetarian,silver,2024-03-17,4,0.5994,positive,0.85,1.0,Customer Service,0.5417,16
+884,11,Saffron House,Middle Eastern,gold,2024-03-17,5,0.8268,positive,0.45,0.75,Food Quality & Taste,0.5003,23
+662,8,Mediterranean Table,Mediterranean,platinum,2024-03-17,5,0.765,positive,0.0,0.0,Packaging & Presentation,0.9556,17
+1191,15,Federal Street Fare,American,needs_improvement,2024-03-18,4,0.5106,positive,0.5,0.9,Value & Pricing,0.9423,15
+214,3,Harbor Fresh Kitchen,American,silver,2024-03-18,4,0.6115,positive,1.0,1.0,Packaging & Presentation,0.9418,11
+556,7,The Grain Bowl,American,silver,2024-03-19,4,0.7906,positive,0.4,0.5,Delivery & Timeliness,0.5412,18
+831,11,Saffron House,Middle Eastern,gold,2024-03-21,4,0.765,positive,0.1,0.25,Customer Service,0.48,14
+369,5,Green Garden Catering,Vegetarian,gold,2024-03-23,5,0.8481,positive,0.5333,0.8333,Packaging & Presentation,0.5001,21
+187,3,Harbor Fresh Kitchen,American,silver,2024-03-23,4,0.743,positive,0.4,0.6875,Food Quality & Taste,0.4891,12
+1030,13,The Smokehouse BBQ,BBQ,silver,2024-03-24,4,0.5106,positive,0.1964,0.4839,Customer Service,0.5515,16
+504,6,Taqueria Del Sol,Mexican,gold,2024-03-25,5,0.7003,positive,0.15,0.4,Food Quality & Taste,0.5697,23
+450,6,Taqueria Del Sol,Mexican,gold,2024-03-25,4,0.6369,positive,1.0,0.3,Packaging & Presentation,0.9331,14
+493,6,Taqueria Del Sol,Mexican,gold,2024-03-27,5,0.3804,positive,0.2214,0.4839,Food Quality & Taste,0.3587,20
+815,10,New England Deli,American,needs_improvement,2024-03-28,4,0.4215,positive,0.35,0.55,Packaging & Presentation,0.9424,11
+1134,14,Garden State Greens,Vegetarian,silver,2024-03-28,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9555,11
+714,9,Seoul Kitchen Catering,Korean,gold,2024-03-29,5,0.5709,positive,-0.155,0.6383,Food Quality & Taste,0.509,22
+1137,14,Garden State Greens,Vegetarian,silver,2024-03-29,4,0.7574,positive,0.575,0.75,Customer Service,0.5114,18
+1161,15,Federal Street Fare,American,needs_improvement,2024-03-31,4,0.3804,positive,0.2952,0.6452,Value & Pricing,0.4925,15
+178,3,Harbor Fresh Kitchen,American,silver,2024-04-01,4,0.8777,positive,0.8,1.0,Customer Service,0.9329,13
+499,6,Taqueria Del Sol,Mexican,gold,2024-04-02,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8991,10
+436,6,Taqueria Del Sol,Mexican,gold,2024-04-02,5,0.807,positive,0.4,0.5,Customer Service,0.9418,21
+925,12,Pacific Rim Catering,Asian Fusion,silver,2024-04-02,4,0.7089,positive,0.45,0.8,Value & Pricing,0.5519,15
+52,1,Boston Box Lunch Co.,American,platinum,2024-04-02,5,0.8779,positive,0.55,0.9375,Customer Service,0.554,22
+873,11,Saffron House,Middle Eastern,gold,2024-04-05,5,0.7964,positive,0.75,0.4,Customer Service,0.5211,26
+625,8,Mediterranean Table,Mediterranean,platinum,2024-04-05,5,0.3182,positive,0.2952,0.6452,Delivery & Timeliness,0.5366,19
+308,4,Bella Cucina Events,Italian,platinum,2024-04-06,5,0.7184,positive,0.4,0.5333,Packaging & Presentation,0.4396,19
+453,6,Taqueria Del Sol,Mexican,gold,2024-04-08,4,0.7184,positive,0.4,0.7708,Packaging & Presentation,0.509,14
+602,8,Mediterranean Table,Mediterranean,platinum,2024-04-08,5,0.6808,positive,0.45,0.8,Value & Pricing,0.5993,19
+373,5,Green Garden Catering,Vegetarian,gold,2024-04-09,4,0.8689,positive,0.8,1.0,Delivery & Timeliness,0.5315,17
+97,2,Spice Route Catering,Indian,gold,2024-04-09,5,0.8779,positive,0.7167,0.5667,Delivery & Timeliness,0.7957,22
+1077,14,Garden State Greens,Vegetarian,silver,2024-04-10,5,0.8442,positive,0.925,0.65,Customer Service,0.9496,25
+376,5,Green Garden Catering,Vegetarian,gold,2024-04-11,4,0.6249,positive,0.2833,0.5542,Food Quality & Taste,0.9528,17
+909,11,Saffron House,Middle Eastern,gold,2024-04-12,4,0.8479,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+1120,14,Garden State Greens,Vegetarian,silver,2024-04-13,4,0.6115,positive,1.0,1.0,Packaging & Presentation,0.9418,11
+993,13,The Smokehouse BBQ,BBQ,silver,2024-04-13,4,0.8779,positive,0.7167,0.5667,Delivery & Timeliness,0.9101,15
+1145,15,Federal Street Fare,American,needs_improvement,2024-04-14,4,0.5106,positive,0.5,0.9,Value & Pricing,0.9423,15
+760,9,Seoul Kitchen Catering,Korean,gold,2024-04-15,5,0.8481,positive,0.25,0.3688,Customer Service,0.3924,24
+190,3,Harbor Fresh Kitchen,American,silver,2024-04-16,5,0.836,positive,0.6,1.0,Packaging & Presentation,0.5513,21
+867,11,Saffron House,Middle Eastern,gold,2024-04-16,5,0.6115,positive,0.5286,0.8119,Value & Pricing,0.9373,19
+1194,15,Federal Street Fare,American,needs_improvement,2024-04-16,4,0.4939,positive,-0.1,0.75,Value & Pricing,0.5666,14
+23,1,Boston Box Lunch Co.,American,platinum,2024-04-17,5,0.5239,positive,0.475,0.55,Delivery & Timeliness,0.5304,20
+970,12,Pacific Rim Catering,Asian Fusion,silver,2024-04-17,4,0.6115,positive,0.5286,0.8119,Value & Pricing,0.9325,12
+948,12,Pacific Rim Catering,Asian Fusion,silver,2024-04-17,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.9329,10
+1099,14,Garden State Greens,Vegetarian,silver,2024-04-17,4,0.7269,positive,0.525,0.925,Packaging & Presentation,0.5099,13
+370,5,Green Garden Catering,Vegetarian,gold,2024-04-19,5,0.8271,positive,0.75,0.9375,Delivery & Timeliness,0.5956,23
+368,5,Green Garden Catering,Vegetarian,gold,2024-04-20,4,0.8777,positive,0.8,1.0,Customer Service,0.9329,13
+465,6,Taqueria Del Sol,Mexican,gold,2024-04-21,5,0.91,positive,0.45,0.5667,Packaging & Presentation,0.9692,17
+995,13,The Smokehouse BBQ,BBQ,silver,2024-04-22,4,0.5106,positive,0.2929,0.7179,Packaging & Presentation,0.5512,12
+83,1,Boston Box Lunch Co.,American,platinum,2024-04-23,5,0.8805,positive,0.2337,0.6038,Food Quality & Taste,0.3845,21
+411,5,Green Garden Catering,Vegetarian,gold,2024-04-24,5,0.659,positive,0.2171,0.5829,Food Quality & Taste,0.5317,20
+391,5,Green Garden Catering,Vegetarian,gold,2024-04-24,5,0.8779,positive,0.4467,0.7267,Value & Pricing,0.675,22
+390,5,Green Garden Catering,Vegetarian,gold,2024-04-25,5,0.6124,positive,0.3,0.4875,Food Quality & Taste,0.567,19
+392,5,Green Garden Catering,Vegetarian,gold,2024-04-25,5,0.8221,positive,0.36,0.74,Value & Pricing,0.5257,21
+1036,13,The Smokehouse BBQ,BBQ,silver,2024-04-26,4,0.8074,positive,0.5,0.8938,Value & Pricing,0.6249,14
+939,12,Pacific Rim Catering,Asian Fusion,silver,2024-04-26,4,0.7089,positive,0.45,0.8,Value & Pricing,0.5519,15
+863,11,Saffron House,Middle Eastern,gold,2024-04-29,4,0.5574,positive,-0.2,0.6917,Packaging & Presentation,0.509,16
+891,11,Saffron House,Middle Eastern,gold,2024-04-29,4,0.4939,positive,-0.1,0.75,Value & Pricing,0.5666,14
+41,1,Boston Box Lunch Co.,American,platinum,2024-04-30,5,0.624,positive,0.1117,0.4717,Packaging & Presentation,0.4009,19
+1029,13,The Smokehouse BBQ,BBQ,silver,2024-05-01,4,0.3818,positive,0.3548,0.7131,Value & Pricing,0.9422,13
+118,2,Spice Route Catering,Indian,gold,2024-05-01,4,0.5719,positive,0.05,1.0,Packaging & Presentation,0.5099,15
+191,3,Harbor Fresh Kitchen,American,silver,2024-05-01,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.6016,17
+1090,14,Garden State Greens,Vegetarian,silver,2024-05-02,4,0.6808,positive,0.45,0.8,Value & Pricing,0.5666,12
+753,9,Seoul Kitchen Catering,Korean,gold,2024-05-02,4,0.8268,positive,0.45,0.75,Customer Service,0.48,16
+526,7,The Grain Bowl,American,silver,2024-05-03,4,0.7089,positive,0.3,0.5,Packaging & Presentation,0.5124,13
+864,11,Saffron House,Middle Eastern,gold,2024-05-03,5,0.8979,positive,0.5,0.75,Customer Service,0.509,26
+317,4,Bella Cucina Events,Italian,platinum,2024-05-04,5,0.6478,positive,0.0838,0.4287,Food Quality & Taste,0.9666,24
+57,1,Boston Box Lunch Co.,American,platinum,2024-05-04,4,0.4215,positive,0.6,1.0,Packaging & Presentation,0.9425,11
+55,1,Boston Box Lunch Co.,American,platinum,2024-05-05,5,0.7783,positive,0.525,0.925,Packaging & Presentation,0.3732,18
+396,5,Green Garden Catering,Vegetarian,gold,2024-05-06,5,0.7079,positive,0.3833,0.6,Food Quality & Taste,0.3724,26
+42,1,Boston Box Lunch Co.,American,platinum,2024-05-06,5,0.9001,positive,0.4667,0.6583,Customer Service,0.4436,23
+495,6,Taqueria Del Sol,Mexican,gold,2024-05-07,4,0.2263,positive,-0.2,0.55,Value & Pricing,0.9422,14
+35,1,Boston Box Lunch Co.,American,platinum,2024-05-08,5,0.1779,positive,0.2929,0.7179,Delivery & Timeliness,0.4077,17
+166,2,Spice Route Catering,Indian,gold,2024-05-09,5,0.7269,positive,0.4714,0.4589,Value & Pricing,0.9498,23
+508,6,Taqueria Del Sol,Mexican,gold,2024-05-09,4,0.8074,positive,0.5,0.8938,Value & Pricing,0.5986,14
+415,5,Green Garden Catering,Vegetarian,gold,2024-05-10,4,0.765,positive,0.5,0.9,Value & Pricing,0.5666,12
+759,9,Seoul Kitchen Catering,Korean,gold,2024-05-10,5,0.6115,positive,0.55,0.55,Delivery & Timeliness,0.9324,17
+780,10,New England Deli,American,needs_improvement,2024-05-11,4,0.5719,positive,0.55,0.55,Delivery & Timeliness,0.9428,14
+1089,14,Garden State Greens,Vegetarian,silver,2024-05-12,4,0.6369,positive,0.5286,0.5786,Value & Pricing,0.9195,15
+687,9,Seoul Kitchen Catering,Korean,gold,2024-05-13,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.9329,10
+991,12,Pacific Rim Catering,Asian Fusion,silver,2024-05-15,4,0.3182,positive,0.3,0.5,Packaging & Presentation,0.5294,11
+694,9,Seoul Kitchen Catering,Korean,gold,2024-05-15,5,0.6597,positive,0.2667,0.4333,Food Quality & Taste,0.5629,28
+378,5,Green Garden Catering,Vegetarian,gold,2024-05-16,5,0.8973,positive,0.8333,0.8333,Customer Service,0.5013,26
+507,6,Taqueria Del Sol,Mexican,gold,2024-05-17,4,0.7269,positive,0.25,0.65,Value & Pricing,0.9331,17
+196,3,Harbor Fresh Kitchen,American,silver,2024-05-19,4,0.7717,positive,0.4333,0.3667,Food Quality & Taste,0.9427,19
+979,12,Pacific Rim Catering,Asian Fusion,silver,2024-05-19,4,0.5719,positive,0.55,0.55,Delivery & Timeliness,0.9428,14
+24,1,Boston Box Lunch Co.,American,platinum,2024-05-20,5,0.5423,positive,0.3778,0.5056,Value & Pricing,0.7322,22
+533,7,The Grain Bowl,American,silver,2024-05-21,4,0.7089,positive,0.25,1.0,Value & Pricing,0.9423,14
+255,4,Bella Cucina Events,Italian,platinum,2024-05-22,4,0.3612,positive,0.2214,0.5589,Food Quality & Taste,0.5495,18
+521,7,The Grain Bowl,American,silver,2024-05-22,4,0.0,neutral,0.1,0.1,Food Quality & Taste,0.328,10
+897,11,Saffron House,Middle Eastern,gold,2024-05-23,5,0.6697,positive,0.045,0.4328,Packaging & Presentation,0.5162,23
+226,3,Harbor Fresh Kitchen,American,silver,2024-05-23,4,0.7645,positive,0.6111,0.8056,Food Quality & Taste,0.9194,11
+889,11,Saffron House,Middle Eastern,gold,2024-05-23,4,0.6124,positive,0.2,0.4417,Packaging & Presentation,0.544,12
+12,1,Boston Box Lunch Co.,American,platinum,2024-05-23,5,0.7264,positive,0.303,0.7215,Value & Pricing,0.6597,22
+599,8,Mediterranean Table,Mediterranean,platinum,2024-05-24,4,0.5423,positive,0.1111,0.8056,Value & Pricing,0.9495,15
+616,8,Mediterranean Table,Mediterranean,platinum,2024-05-24,5,0.8402,positive,0.52,0.84,Packaging & Presentation,0.3748,25
+916,12,Pacific Rim Catering,Asian Fusion,silver,2024-05-24,4,0.8718,positive,0.7167,0.9167,Delivery & Timeliness,0.933,12
+235,3,Harbor Fresh Kitchen,American,silver,2024-05-25,5,0.5413,positive,0.2333,0.2333,Value & Pricing,0.3899,21
+348,5,Green Garden Catering,Vegetarian,gold,2024-05-25,4,0.6249,positive,0.45,0.75,Packaging & Presentation,0.5293,11
+194,3,Harbor Fresh Kitchen,American,silver,2024-05-25,4,0.5719,positive,0.5286,0.8119,Delivery & Timeliness,0.5412,16
+175,2,Spice Route Catering,Indian,gold,2024-05-25,5,0.4215,positive,-0.0333,0.4,Value & Pricing,0.9576,22
+1046,13,The Smokehouse BBQ,BBQ,silver,2024-05-26,4,0.8834,positive,0.8,0.65,Customer Service,0.9198,16
+593,8,Mediterranean Table,Mediterranean,platinum,2024-05-26,4,0.6249,positive,0.2833,0.5542,Food Quality & Taste,0.9555,17
+653,8,Mediterranean Table,Mediterranean,platinum,2024-05-27,4,0.6124,positive,0.3,0.4875,Food Quality & Taste,0.6088,12
+543,7,The Grain Bowl,American,silver,2024-05-27,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.9325,15
+102,2,Spice Route Catering,Indian,gold,2024-05-27,4,0.5106,positive,0.1,0.1,Packaging & Presentation,0.9265,10
+427,5,Green Garden Catering,Vegetarian,gold,2024-05-27,4,0.6369,positive,-0.5,1.0,Value & Pricing,0.5666,14
+65,1,Boston Box Lunch Co.,American,platinum,2024-05-28,5,0.6486,positive,0.2838,0.6705,Value & Pricing,0.6456,19
+751,9,Seoul Kitchen Catering,Korean,gold,2024-05-28,4,0.6808,positive,0.45,0.8,Value & Pricing,0.5666,12
+1050,13,The Smokehouse BBQ,BBQ,silver,2024-05-29,4,0.7096,positive,0.2583,0.4792,Customer Service,0.5147,15
+771,10,New England Deli,American,needs_improvement,2024-05-30,4,0.3804,positive,0.2,0.3,Food Quality & Taste,0.5427,13
+132,2,Spice Route Catering,Indian,gold,2024-05-30,5,0.8883,positive,0.3837,0.6975,Food Quality & Taste,0.5857,24
+278,4,Bella Cucina Events,Italian,platinum,2024-05-30,5,0.9008,positive,0.6333,0.6167,Packaging & Presentation,0.5784,15
+198,3,Harbor Fresh Kitchen,American,silver,2024-05-31,4,0.0,neutral,0.0,0.0,Packaging & Presentation,0.9424,14
+104,2,Spice Route Catering,Indian,gold,2024-06-01,4,0.5719,positive,1.0,1.0,Packaging & Presentation,0.5099,15
+143,2,Spice Route Catering,Indian,gold,2024-06-02,4,0.9042,positive,0.6,1.0,Customer Service,0.95,16
+1122,14,Garden State Greens,Vegetarian,silver,2024-06-03,5,0.0,neutral,0.1,0.1,Packaging & Presentation,0.9316,20
+360,5,Green Garden Catering,Vegetarian,gold,2024-06-03,5,0.7783,positive,0.3778,0.5056,Value & Pricing,0.4658,19
+316,4,Bella Cucina Events,Italian,platinum,2024-06-04,5,0.8442,positive,0.4438,0.7205,Value & Pricing,0.6413,18
+619,8,Mediterranean Table,Mediterranean,platinum,2024-06-05,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8983,13
+1058,13,The Smokehouse BBQ,BBQ,silver,2024-06-05,4,0.2263,positive,-0.5,1.0,Value & Pricing,0.7286,14
+283,4,Bella Cucina Events,Italian,platinum,2024-06-06,5,0.8268,positive,0.6333,0.7,Packaging & Presentation,0.6216,19
+69,1,Boston Box Lunch Co.,American,platinum,2024-06-06,5,0.923,positive,0.7,0.5167,Food Quality & Taste,0.5588,21
+1158,15,Federal Street Fare,American,needs_improvement,2024-06-06,4,0.6369,positive,0.25,0.925,Value & Pricing,0.96,16
+515,6,Taqueria Del Sol,Mexican,gold,2024-06-07,5,0.8586,positive,0.6,0.6667,Customer Service,0.5567,25
+567,7,The Grain Bowl,American,silver,2024-06-07,4,0.7003,positive,0.15,0.4,Food Quality & Taste,0.5978,16
+608,8,Mediterranean Table,Mediterranean,platinum,2024-06-08,5,0.7783,positive,0.3,0.6667,Packaging & Presentation,0.545,17
+1015,13,The Smokehouse BBQ,BBQ,silver,2024-06-08,4,0.5423,positive,0.1111,0.8056,Value & Pricing,0.9495,15
+248,3,Harbor Fresh Kitchen,American,silver,2024-06-08,4,0.7574,positive,0.575,0.75,Customer Service,0.5114,18
+949,12,Pacific Rim Catering,Asian Fusion,silver,2024-06-09,4,0.4215,positive,0.6,1.0,Packaging & Presentation,0.9425,11
+730,9,Seoul Kitchen Catering,Korean,gold,2024-06-09,4,0.5106,positive,0.1,0.25,Customer Service,0.6834,14
+490,6,Taqueria Del Sol,Mexican,gold,2024-06-09,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.9325,15
+617,8,Mediterranean Table,Mediterranean,platinum,2024-06-10,4,0.3818,positive,0.4167,0.7083,Food Quality & Taste,0.9199,11
+92,2,Spice Route Catering,Indian,gold,2024-06-11,5,0.1779,positive,0.2929,0.7179,Packaging & Presentation,0.386,18
+920,12,Pacific Rim Catering,Asian Fusion,silver,2024-06-12,5,0.3804,positive,0.3,0.5,Food Quality & Taste,0.9494,23
+299,4,Bella Cucina Events,Italian,platinum,2024-06-12,5,0.836,positive,0.4,0.6667,Customer Service,0.5739,19
+1025,13,The Smokehouse BBQ,BBQ,silver,2024-06-12,4,0.765,positive,0.4444,0.7639,Food Quality & Taste,0.9272,13
+530,7,The Grain Bowl,American,silver,2024-06-12,4,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9332,10
+377,5,Green Garden Catering,Vegetarian,gold,2024-06-14,5,0.8479,positive,1.0,0.65,Food Quality & Taste,0.7302,20
+315,4,Bella Cucina Events,Italian,platinum,2024-06-14,5,0.7604,positive,0.53,0.76,Value & Pricing,0.5488,25
+47,1,Boston Box Lunch Co.,American,platinum,2024-06-14,5,0.0,neutral,0.1,0.1,Delivery & Timeliness,0.9265,17
+902,11,Saffron House,Middle Eastern,gold,2024-06-16,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.9499,14
+562,7,The Grain Bowl,American,silver,2024-06-16,4,0.3804,positive,0.3,0.5,Food Quality & Taste,0.9332,13
+665,8,Mediterranean Table,Mediterranean,platinum,2024-06-17,4,0.7003,positive,0.125,0.325,Food Quality & Taste,0.6099,20
+875,11,Saffron House,Middle Eastern,gold,2024-06-17,4,0.3818,positive,0.3111,0.5056,Food Quality & Taste,0.5776,11
+1026,13,The Smokehouse BBQ,BBQ,silver,2024-06-17,4,0.6808,positive,0.3,0.5,Packaging & Presentation,0.5334,10
+356,5,Green Garden Catering,Vegetarian,gold,2024-06-18,4,0.7089,positive,0.1667,0.3333,Food Quality & Taste,0.5123,17
+183,3,Harbor Fresh Kitchen,American,silver,2024-06-18,4,0.7645,positive,0.4,0.6875,Food Quality & Taste,0.9384,15
+362,5,Green Garden Catering,Vegetarian,gold,2024-06-18,5,0.3804,positive,0.1333,0.2,Food Quality & Taste,0.3618,18
+519,7,The Grain Bowl,American,silver,2024-06-18,4,0.6124,positive,0.5,0.875,Food Quality & Taste,0.9199,12
+382,5,Green Garden Catering,Vegetarian,gold,2024-06-18,4,0.5267,positive,-0.0667,0.6,Value & Pricing,0.4944,20
+876,11,Saffron House,Middle Eastern,gold,2024-06-19,4,0.8555,positive,0.525,0.925,Value & Pricing,0.5111,15
+935,12,Pacific Rim Catering,Asian Fusion,silver,2024-06-20,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9555,11
+126,2,Spice Route Catering,Indian,gold,2024-06-20,4,0.7096,positive,0.2583,0.4792,Customer Service,0.5147,15
+1003,13,The Smokehouse BBQ,BBQ,silver,2024-06-23,4,0.8581,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+63,1,Boston Box Lunch Co.,American,platinum,2024-06-23,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8998,10
+763,9,Seoul Kitchen Catering,Korean,gold,2024-06-24,5,0.8908,positive,0.7167,0.9167,Delivery & Timeliness,0.9635,17
+45,1,Boston Box Lunch Co.,American,platinum,2024-06-24,5,0.9081,positive,0.4444,0.5611,Delivery & Timeliness,0.638,17
+46,1,Boston Box Lunch Co.,American,platinum,2024-06-24,5,0.7717,positive,0.25,0.6875,Packaging & Presentation,0.533,19
+755,9,Seoul Kitchen Catering,Korean,gold,2024-06-24,5,0.9201,positive,0.8,0.75,Packaging & Presentation,0.9636,15
+814,10,New England Deli,American,needs_improvement,2024-06-25,4,0.7778,positive,0.65,0.4,Food Quality & Taste,0.9108,16
+1038,13,The Smokehouse BBQ,BBQ,silver,2024-06-26,4,0.7269,positive,0.525,0.925,Packaging & Presentation,0.5099,13
+800,10,New England Deli,American,needs_improvement,2024-06-26,4,0.6369,positive,0.55,0.2,Delivery & Timeliness,0.5141,13
+555,7,The Grain Bowl,American,silver,2024-06-27,4,0.3182,positive,0.2952,0.6452,Delivery & Timeliness,0.4799,12
+72,1,Boston Box Lunch Co.,American,platinum,2024-06-27,4,0.5106,positive,0.5,0.9,Value & Pricing,0.9423,15
+101,2,Spice Route Catering,Indian,gold,2024-06-27,4,0.6369,positive,-0.5,1.0,Value & Pricing,0.5412,14
+534,7,The Grain Bowl,American,silver,2024-06-27,4,0.7814,positive,0.65,0.75,Food Quality & Taste,0.9329,13
+405,5,Green Garden Catering,Vegetarian,gold,2024-06-27,5,0.7645,positive,0.1667,0.3333,Delivery & Timeliness,0.3716,22
+1142,15,Federal Street Fare,American,needs_improvement,2024-06-28,4,0.5574,positive,0.3,0.5,Delivery & Timeliness,0.9499,10
+983,12,Pacific Rim Catering,Asian Fusion,silver,2024-06-28,5,0.7184,positive,0.65,0.75,Delivery & Timeliness,0.9635,21
+910,11,Saffron House,Middle Eastern,gold,2024-06-29,4,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9496,12
+48,1,Boston Box Lunch Co.,American,platinum,2024-06-29,5,0.3804,positive,0.3,0.5,Packaging & Presentation,0.5524,21
+305,4,Bella Cucina Events,Italian,platinum,2024-06-30,4,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9496,12
+77,1,Boston Box Lunch Co.,American,platinum,2024-06-30,4,0.5413,positive,-0.1,0.75,Value & Pricing,0.5666,17
+919,12,Pacific Rim Catering,Asian Fusion,silver,2024-07-01,4,0.6124,positive,0.5,0.875,Food Quality & Taste,0.9199,12
+32,1,Boston Box Lunch Co.,American,platinum,2024-07-01,5,0.5574,positive,-0.1333,0.4611,Packaging & Presentation,0.4,21
+716,9,Seoul Kitchen Catering,Korean,gold,2024-07-01,4,0.5994,positive,0.85,1.0,Customer Service,0.7077,15
+647,8,Mediterranean Table,Mediterranean,platinum,2024-07-01,5,0.7783,positive,0.675,0.75,Customer Service,0.8417,27
+789,10,New England Deli,American,needs_improvement,2024-07-03,4,0.8479,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+38,1,Boston Box Lunch Co.,American,platinum,2024-07-03,5,0.8023,positive,0.8833,0.6833,Customer Service,0.6068,23
+467,6,Taqueria Del Sol,Mexican,gold,2024-07-03,4,0.8074,positive,0.5,0.8938,Value & Pricing,0.6249,14
+1200,15,Federal Street Fare,American,needs_improvement,2024-07-04,4,0.7089,positive,0.1667,0.3333,Food Quality & Taste,0.5123,17
+600,8,Mediterranean Table,Mediterranean,platinum,2024-07-05,5,0.6369,positive,0.25,0.925,Value & Pricing,0.9618,23
+851,11,Saffron House,Middle Eastern,gold,2024-07-06,4,0.7003,positive,0.15,0.4,Food Quality & Taste,0.5978,16
+894,11,Saffron House,Middle Eastern,gold,2024-07-08,5,0.8481,positive,0.2167,0.4167,Delivery & Timeliness,0.3727,17
+232,3,Harbor Fresh Kitchen,American,silver,2024-07-11,4,0.3612,positive,0.1333,0.3,Food Quality & Taste,0.7465,16
+66,1,Boston Box Lunch Co.,American,platinum,2024-07-11,5,0.9201,positive,0.575,0.8625,Packaging & Presentation,0.55,17
+1124,14,Garden State Greens,Vegetarian,silver,2024-07-13,5,0.1779,positive,0.0,0.0,Packaging & Presentation,0.5355,19
+684,9,Seoul Kitchen Catering,Korean,gold,2024-07-15,4,0.8176,positive,0.625,0.75,Value & Pricing,0.927,15
+928,12,Pacific Rim Catering,Asian Fusion,silver,2024-07-15,4,0.8074,positive,0.2333,0.4583,Customer Service,0.5147,16
+1042,13,The Smokehouse BBQ,BBQ,silver,2024-07-15,4,0.7096,positive,0.2583,0.4792,Customer Service,0.5147,15
+849,11,Saffron House,Middle Eastern,gold,2024-07-15,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.5197,17
+571,7,The Grain Bowl,American,silver,2024-07-15,4,0.8126,positive,0.2444,0.5444,Food Quality & Taste,0.5343,18
+62,1,Boston Box Lunch Co.,American,platinum,2024-07-15,5,0.8739,positive,1.0,1.0,Delivery & Timeliness,0.9526,15
+732,9,Seoul Kitchen Catering,Korean,gold,2024-07-17,5,0.7574,positive,0.345,0.6383,Delivery & Timeliness,0.5272,25
+184,3,Harbor Fresh Kitchen,American,silver,2024-07-18,4,0.807,positive,1.0,1.0,Packaging & Presentation,0.9256,10
+87,1,Boston Box Lunch Co.,American,platinum,2024-07-21,5,0.7574,positive,0.4333,0.6,Food Quality & Taste,0.9539,23
+747,9,Seoul Kitchen Catering,Korean,gold,2024-07-21,4,0.765,positive,0.34,0.64,Value & Pricing,0.5412,16
+160,2,Spice Route Catering,Indian,gold,2024-07-21,4,0.5574,positive,0.3,0.5,Delivery & Timeliness,0.9499,10
+729,9,Seoul Kitchen Catering,Korean,gold,2024-07-21,5,0.765,positive,0.2667,0.4667,Delivery & Timeliness,0.9636,17
+357,5,Green Garden Catering,Vegetarian,gold,2024-07-21,5,0.5709,positive,-0.0912,0.5038,Value & Pricing,0.5998,22
+295,4,Bella Cucina Events,Italian,platinum,2024-07-22,5,0.8481,positive,0.4333,0.8333,Packaging & Presentation,0.4825,19
+592,8,Mediterranean Table,Mediterranean,platinum,2024-07-22,5,0.7579,positive,0.4619,0.7286,Packaging & Presentation,0.68,18
+406,5,Green Garden Catering,Vegetarian,gold,2024-07-22,4,0.7003,positive,0.15,0.4,Food Quality & Taste,0.5978,16
+537,7,The Grain Bowl,American,silver,2024-07-22,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8983,13
+1118,14,Garden State Greens,Vegetarian,silver,2024-07-23,5,0.91,positive,0.6444,0.7778,Delivery & Timeliness,0.5786,28
+71,1,Boston Box Lunch Co.,American,platinum,2024-07-23,5,0.886,positive,0.425,0.325,Customer Service,0.9618,29
+1157,15,Federal Street Fare,American,needs_improvement,2024-07-24,4,0.659,positive,0.45,0.75,Packaging & Presentation,0.5412,14
+576,7,The Grain Bowl,American,silver,2024-07-24,4,0.7351,positive,0.4333,0.6,Delivery & Timeliness,0.4896,20
+129,2,Spice Route Catering,Indian,gold,2024-07-25,5,0.8655,positive,0.7,0.8333,Customer Service,0.4947,23
+1084,14,Garden State Greens,Vegetarian,silver,2024-07-25,5,0.6369,positive,0.5,0.15,Packaging & Presentation,0.57,19
+946,12,Pacific Rim Catering,Asian Fusion,silver,2024-07-26,4,0.7096,positive,0.3397,0.7563,Delivery & Timeliness,0.48,14
+1121,14,Garden State Greens,Vegetarian,silver,2024-07-27,4,0.8581,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+73,1,Boston Box Lunch Co.,American,platinum,2024-07-27,5,0.4019,positive,0.0,0.5,Food Quality & Taste,0.9265,19
+1081,14,Garden State Greens,Vegetarian,silver,2024-07-27,4,0.6115,positive,1.0,1.0,Packaging & Presentation,0.9418,11
+432,5,Green Garden Catering,Vegetarian,gold,2024-07-29,5,0.7783,positive,0.4389,0.7028,Value & Pricing,0.9634,21
+1190,15,Federal Street Fare,American,needs_improvement,2024-07-30,4,0.3182,positive,0.2952,0.6452,Delivery & Timeliness,0.5124,12
+739,9,Seoul Kitchen Catering,Korean,gold,2024-07-30,5,0.8555,positive,0.6667,0.2,Customer Service,0.9107,21
+1091,14,Garden State Greens,Vegetarian,silver,2024-07-30,5,0.7906,positive,0.05,1.0,Value & Pricing,0.5269,24
+890,11,Saffron House,Middle Eastern,gold,2024-07-31,5,0.6124,positive,0.15,0.4,Food Quality & Taste,0.966,29
+664,8,Mediterranean Table,Mediterranean,platinum,2024-08-01,4,0.3818,positive,0.4167,0.7083,Packaging & Presentation,0.6367,12
+328,4,Bella Cucina Events,Italian,platinum,2024-08-01,5,0.9153,positive,0.5333,0.7083,Delivery & Timeliness,0.4057,17
+342,4,Bella Cucina Events,Italian,platinum,2024-08-02,5,0.7717,positive,0.1333,0.4611,Packaging & Presentation,0.5333,18
+434,5,Green Garden Catering,Vegetarian,gold,2024-08-02,5,0.8016,positive,0.3,0.4611,Packaging & Presentation,0.4326,27
+704,9,Seoul Kitchen Catering,Korean,gold,2024-08-03,5,0.4201,positive,0.1552,0.5877,Food Quality & Taste,0.5814,20
+1067,14,Garden State Greens,Vegetarian,silver,2024-08-05,4,0.7096,positive,0.4333,0.8333,Delivery & Timeliness,0.9258,15
+1104,14,Garden State Greens,Vegetarian,silver,2024-08-06,4,0.7778,positive,0.65,0.4,Food Quality & Taste,0.9198,16
+172,2,Spice Route Catering,Indian,gold,2024-08-06,4,0.7574,positive,0.4333,0.6,Food Quality & Taste,0.9463,16
+878,11,Saffron House,Middle Eastern,gold,2024-08-07,5,0.5574,positive,0.2464,0.4798,Packaging & Presentation,0.5105,22
+506,6,Taqueria Del Sol,Mexican,gold,2024-08-07,5,0.9186,positive,0.5333,0.6,Customer Service,0.6286,22
+518,7,The Grain Bowl,American,silver,2024-08-08,4,0.8481,positive,0.75,0.5875,Food Quality & Taste,0.8998,15
+589,8,Mediterranean Table,Mediterranean,platinum,2024-08-08,5,0.6597,positive,1.0,1.0,Delivery & Timeliness,0.8252,19
+461,6,Taqueria Del Sol,Mexican,gold,2024-08-08,4,0.8481,positive,0.4333,0.8333,Delivery & Timeliness,0.5124,12
+1098,14,Garden State Greens,Vegetarian,silver,2024-08-09,5,0.7964,positive,0.5214,0.5589,Customer Service,0.5656,27
+1052,13,The Smokehouse BBQ,BBQ,silver,2024-08-10,4,0.765,positive,0.34,0.64,Value & Pricing,0.5412,16
+595,8,Mediterranean Table,Mediterranean,platinum,2024-08-12,5,0.6361,positive,-0.1,0.75,Delivery & Timeliness,0.3736,22
+757,9,Seoul Kitchen Catering,Korean,gold,2024-08-13,4,0.3612,positive,0.1333,0.3,Food Quality & Taste,0.6788,16
+532,7,The Grain Bowl,American,silver,2024-08-13,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,13
+568,7,The Grain Bowl,American,silver,2024-08-14,4,0.8268,positive,0.45,0.75,Food Quality & Taste,0.5123,16
+263,4,Bella Cucina Events,Italian,platinum,2024-08-14,5,0.8225,positive,0.4,0.3,Food Quality & Taste,0.6252,27
+1113,14,Garden State Greens,Vegetarian,silver,2024-08-14,4,0.8126,positive,0.45,0.75,Customer Service,0.5125,13
+347,4,Bella Cucina Events,Italian,platinum,2024-08-14,5,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9461,17
+885,11,Saffron House,Middle Eastern,gold,2024-08-15,4,0.3818,positive,0.4167,0.7083,Food Quality & Taste,0.9199,11
+940,12,Pacific Rim Catering,Asian Fusion,silver,2024-08-15,4,0.4019,positive,0.2286,0.6063,Packaging & Presentation,0.6454,14
+387,5,Green Garden Catering,Vegetarian,gold,2024-08-17,5,0.6478,positive,0.2214,0.6089,Food Quality & Taste,0.4999,21
+644,8,Mediterranean Table,Mediterranean,platinum,2024-08-17,5,0.7351,positive,0.5,0.5,Packaging & Presentation,0.6374,23
+3,1,Boston Box Lunch Co.,American,platinum,2024-08-19,5,0.8807,positive,0.9,0.875,Delivery & Timeliness,0.5101,19
+624,8,Mediterranean Table,Mediterranean,platinum,2024-08-19,4,0.6369,positive,1.0,0.3,Food Quality & Taste,0.8662,13
+926,12,Pacific Rim Catering,Asian Fusion,silver,2024-08-19,4,0.7096,positive,0.4333,0.8333,Packaging & Presentation,0.5111,13
+777,10,New England Deli,American,needs_improvement,2024-08-20,4,0.7783,positive,0.6111,0.5722,Food Quality & Taste,0.8997,14
+247,3,Harbor Fresh Kitchen,American,silver,2024-08-20,4,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9332,10
+1072,14,Garden State Greens,Vegetarian,silver,2024-08-21,5,0.8402,positive,0.55,0.75,Customer Service,0.8417,25
+13,1,Boston Box Lunch Co.,American,platinum,2024-08-22,5,0.8271,positive,0.4778,0.8056,Customer Service,0.5631,21
+588,7,The Grain Bowl,American,silver,2024-08-22,4,0.8268,positive,0.45,0.75,Customer Service,0.48,16
+123,2,Spice Route Catering,Indian,gold,2024-08-22,4,0.8271,positive,0.4778,0.8056,Customer Service,0.5147,14
+1096,14,Garden State Greens,Vegetarian,silver,2024-08-22,4,0.6115,positive,0.5286,0.8119,Value & Pricing,0.9325,12
+1103,14,Garden State Greens,Vegetarian,silver,2024-08-22,4,0.8074,positive,0.5,0.8938,Value & Pricing,0.6249,14
+615,8,Mediterranean Table,Mediterranean,platinum,2024-08-23,5,0.7089,positive,0.65,0.55,Value & Pricing,0.5316,18
+121,2,Spice Route Catering,Indian,gold,2024-08-23,4,0.6115,positive,1.0,1.0,Food Quality & Taste,0.8991,10
+1018,13,The Smokehouse BBQ,BBQ,silver,2024-08-24,4,0.6369,positive,1.0,0.3,Food Quality & Taste,0.8662,13
+1027,13,The Smokehouse BBQ,BBQ,silver,2024-08-24,4,0.3612,positive,0.1333,0.3,Food Quality & Taste,0.6788,16
+683,9,Seoul Kitchen Catering,Korean,gold,2024-08-24,5,0.8271,positive,0.8,0.65,Packaging & Presentation,0.5207,19
+180,3,Harbor Fresh Kitchen,American,silver,2024-08-24,4,0.6124,positive,0.3619,0.7702,Value & Pricing,0.568,14
+802,10,New England Deli,American,needs_improvement,2024-08-25,4,0.6486,positive,0.3111,0.6,Packaging & Presentation,0.6517,13
+1073,14,Garden State Greens,Vegetarian,silver,2024-08-25,5,0.8689,positive,0.275,0.3375,Customer Service,0.4824,19
+749,9,Seoul Kitchen Catering,Korean,gold,2024-08-25,5,0.8122,positive,0.1338,0.7288,Value & Pricing,0.3777,26
+1019,13,The Smokehouse BBQ,BBQ,silver,2024-08-26,4,0.3804,positive,0.3,0.5,Packaging & Presentation,0.5657,14
+470,6,Taqueria Del Sol,Mexican,gold,2024-08-26,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8992,13
+332,4,Bella Cucina Events,Italian,platinum,2024-08-27,5,0.765,positive,0.2667,0.4667,Delivery & Timeliness,0.9636,17
+566,7,The Grain Bowl,American,silver,2024-08-27,4,0.3804,positive,0.3,0.5,Food Quality & Taste,0.933,16
+346,4,Bella Cucina Events,Italian,platinum,2024-08-29,5,0.8519,positive,0.4286,0.8429,Value & Pricing,0.9663,20
+545,7,The Grain Bowl,American,silver,2024-08-29,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,13
+565,7,The Grain Bowl,American,silver,2024-08-31,4,0.2263,positive,0.0286,0.8119,Value & Pricing,0.9555,16
+437,6,Taqueria Del Sol,Mexican,gold,2024-08-31,5,0.7902,positive,0.275,0.45,Food Quality & Taste,0.6066,31
+838,11,Saffron House,Middle Eastern,gold,2024-09-01,5,0.7003,positive,0.2833,0.5542,Food Quality & Taste,0.6558,22
+250,3,Harbor Fresh Kitchen,American,silver,2024-09-02,4,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9332,10
+229,3,Harbor Fresh Kitchen,American,silver,2024-09-02,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.7286,14
+548,7,The Grain Bowl,American,silver,2024-09-03,4,0.3182,positive,0.3,0.5,Delivery & Timeliness,0.5451,10
+938,12,Pacific Rim Catering,Asian Fusion,silver,2024-09-04,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9328,13
+484,6,Taqueria Del Sol,Mexican,gold,2024-09-04,4,0.6124,positive,0.3619,0.7702,Value & Pricing,0.568,14
+795,10,New England Deli,American,needs_improvement,2024-09-04,4,0.7906,positive,0.05,1.0,Value & Pricing,0.5666,17
+275,4,Bella Cucina Events,Italian,platinum,2024-09-05,5,0.7506,positive,0.0333,0.8333,Packaging & Presentation,0.5696,21
+539,7,The Grain Bowl,American,silver,2024-09-05,4,0.5413,positive,-0.1,0.75,Value & Pricing,0.5666,17
+1107,14,Garden State Greens,Vegetarian,silver,2024-09-05,4,0.3804,positive,0.2952,0.6452,Value & Pricing,0.4925,15
+968,12,Pacific Rim Catering,Asian Fusion,silver,2024-09-05,4,0.3182,positive,0.2952,0.6452,Delivery & Timeliness,0.5124,12
+941,12,Pacific Rim Catering,Asian Fusion,silver,2024-09-05,4,0.6115,positive,0.55,0.55,Delivery & Timeliness,0.8845,10
+410,5,Green Garden Catering,Vegetarian,gold,2024-09-05,4,0.6124,positive,0.3619,0.7702,Value & Pricing,0.5127,14
+520,7,The Grain Bowl,American,silver,2024-09-07,4,0.7351,positive,0.575,0.75,Customer Service,0.5112,15
+37,1,Boston Box Lunch Co.,American,platinum,2024-09-07,5,0.8162,positive,0.5333,0.5333,Delivery & Timeliness,0.5819,18
+311,4,Bella Cucina Events,Italian,platinum,2024-09-08,5,0.8934,positive,0.6333,0.3833,Packaging & Presentation,0.9263,18
+458,6,Taqueria Del Sol,Mexican,gold,2024-09-08,5,0.8932,positive,0.4833,0.6667,Food Quality & Taste,0.6602,19
+784,10,New England Deli,American,needs_improvement,2024-09-09,4,0.765,positive,0.5,0.9,Value & Pricing,0.96,14
+706,9,Seoul Kitchen Catering,Korean,gold,2024-09-09,5,0.8173,positive,0.3667,0.4917,Food Quality & Taste,0.6601,23
+742,9,Seoul Kitchen Catering,Korean,gold,2024-09-10,5,0.4404,positive,0.2964,0.5089,Value & Pricing,0.5295,24
+579,7,The Grain Bowl,American,silver,2024-09-12,4,0.7003,positive,0.125,0.325,Food Quality & Taste,0.6099,20
+1106,14,Garden State Greens,Vegetarian,silver,2024-09-12,4,0.3182,positive,0.3,0.5,Packaging & Presentation,0.5294,11
+76,1,Boston Box Lunch Co.,American,platinum,2024-09-12,5,0.7964,positive,0.0,0.75,Value & Pricing,0.3938,26
+718,9,Seoul Kitchen Catering,Korean,gold,2024-09-15,4,0.5574,positive,-0.2,0.6917,Packaging & Presentation,0.509,16
+480,6,Taqueria Del Sol,Mexican,gold,2024-09-15,4,0.6808,positive,0.3,0.5,Packaging & Presentation,0.5334,10
+16,1,Boston Box Lunch Co.,American,platinum,2024-09-15,5,0.6808,positive,0.45,0.8,Value & Pricing,0.6097,19
+202,3,Harbor Fresh Kitchen,American,silver,2024-09-16,4,0.0,neutral,0.0,0.0,Packaging & Presentation,0.9424,14
+570,7,The Grain Bowl,American,silver,2024-09-16,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8998,10
+1001,13,The Smokehouse BBQ,BBQ,silver,2024-09-16,4,0.7269,positive,0.6,1.0,Packaging & Presentation,0.5105,14
+61,1,Boston Box Lunch Co.,American,platinum,2024-09-18,5,0.2263,positive,0.2,0.1,Packaging & Presentation,0.5927,19
+1082,14,Garden State Greens,Vegetarian,silver,2024-09-19,5,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9497,17
+621,8,Mediterranean Table,Mediterranean,platinum,2024-09-19,5,0.9022,positive,0.52,0.79,Value & Pricing,0.425,17
+861,11,Saffron House,Middle Eastern,gold,2024-09-19,5,0.6908,positive,0.4214,0.7339,Packaging & Presentation,0.4173,25
+794,10,New England Deli,American,needs_improvement,2024-09-19,4,0.5106,positive,0.5,0.9,Value & Pricing,0.5159,13
+798,10,New England Deli,American,needs_improvement,2024-09-20,4,0.6124,positive,0.3,0.4875,Food Quality & Taste,0.6088,12
+384,5,Green Garden Catering,Vegetarian,gold,2024-09-20,5,0.6124,positive,0.15,0.5,Packaging & Presentation,0.5451,17
+271,4,Bella Cucina Events,Italian,platinum,2024-09-21,5,0.7778,positive,0.65,0.4,Food Quality & Taste,0.9378,23
+1150,15,Federal Street Fare,American,needs_improvement,2024-09-21,4,0.8555,positive,0.6,1.0,Customer Service,0.48,13
+291,4,Bella Cucina Events,Italian,platinum,2024-09-22,5,0.8934,positive,0.6333,0.3833,Packaging & Presentation,0.9325,18
+301,4,Bella Cucina Events,Italian,platinum,2024-09-22,5,0.7003,positive,0.3,0.5833,Value & Pricing,0.4132,23
+700,9,Seoul Kitchen Catering,Korean,gold,2024-09-23,4,0.7717,positive,0.4333,0.3667,Food Quality & Taste,0.9427,19
+882,11,Saffron House,Middle Eastern,gold,2024-09-24,4,0.2263,positive,0.0286,0.8119,Value & Pricing,0.9555,16
+280,4,Bella Cucina Events,Italian,platinum,2024-09-25,5,0.8832,positive,0.4225,0.6525,Value & Pricing,0.5117,23
+279,4,Bella Cucina Events,Italian,platinum,2024-09-25,5,0.7837,positive,0.127,0.443,Food Quality & Taste,0.9714,27
+498,6,Taqueria Del Sol,Mexican,gold,2024-09-25,4,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9555,11
+717,9,Seoul Kitchen Catering,Korean,gold,2024-09-26,5,0.807,positive,0.3,0.375,Customer Service,0.9554,19
+455,6,Taqueria Del Sol,Mexican,gold,2024-09-28,5,0.7435,positive,0.63,0.89,Customer Service,0.3926,22
+1009,13,The Smokehouse BBQ,BBQ,silver,2024-09-30,4,0.7351,positive,0.4333,0.6,Delivery & Timeliness,0.4896,20
+964,12,Pacific Rim Catering,Asian Fusion,silver,2024-10-01,4,0.7184,positive,0.1,0.3833,Packaging & Presentation,0.9599,12
+429,5,Green Garden Catering,Vegetarian,gold,2024-10-02,4,0.6808,positive,0.1667,0.3333,Delivery & Timeliness,0.5124,14
+186,3,Harbor Fresh Kitchen,American,silver,2024-10-03,4,0.5719,positive,0.05,1.0,Packaging & Presentation,0.5099,15
+428,5,Green Garden Catering,Vegetarian,gold,2024-10-03,5,0.624,positive,0.1117,0.4717,Food Quality & Taste,0.6246,21
+696,9,Seoul Kitchen Catering,Korean,gold,2024-10-04,5,0.5095,positive,0.3,0.5,Delivery & Timeliness,0.3736,19
+821,10,New England Deli,American,needs_improvement,2024-10-04,4,0.839,positive,1.0,1.0,Delivery & Timeliness,0.9426,14
+350,5,Green Garden Catering,Vegetarian,gold,2024-10-05,4,0.7269,positive,0.6,1.0,Customer Service,0.9269,16
+500,6,Taqueria Del Sol,Mexican,gold,2024-10-05,4,0.3804,positive,0.2952,0.6452,Value & Pricing,0.4925,15
+374,5,Green Garden Catering,Vegetarian,gold,2024-10-05,4,0.3804,positive,0.3,0.5,Food Quality & Taste,0.9332,13
+656,8,Mediterranean Table,Mediterranean,platinum,2024-10-05,4,0.8176,positive,1.0,0.3,Packaging & Presentation,0.9197,13
+612,8,Mediterranean Table,Mediterranean,platinum,2024-10-07,5,0.9246,positive,0.6333,0.4778,Packaging & Presentation,0.9599,20
+1071,14,Garden State Greens,Vegetarian,silver,2024-10-07,4,0.6124,positive,0.5,0.875,Packaging & Presentation,0.5741,13
+217,3,Harbor Fresh Kitchen,American,silver,2024-10-08,5,0.4215,positive,0.35,0.55,Packaging & Presentation,0.9497,18
+610,8,Mediterranean Table,Mediterranean,platinum,2024-10-08,5,0.8481,positive,0.5833,0.7292,Customer Service,0.4307,27
+1195,15,Federal Street Fare,American,needs_improvement,2024-10-08,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.6701,12
+721,9,Seoul Kitchen Catering,Korean,gold,2024-10-10,4,0.3804,positive,0.3,0.5,Food Quality & Taste,0.9268,16
+40,1,Boston Box Lunch Co.,American,platinum,2024-10-11,5,0.875,positive,0.4833,0.6667,Customer Service,0.9652,23
+223,3,Harbor Fresh Kitchen,American,silver,2024-10-11,4,0.7814,positive,0.65,0.75,Food Quality & Taste,0.9329,13
+765,10,New England Deli,American,needs_improvement,2024-10-11,4,0.7783,positive,0.6111,0.5722,Food Quality & Taste,0.8853,14
+335,4,Bella Cucina Events,Italian,platinum,2024-10-11,5,0.6124,positive,0.0,0.0,Packaging & Presentation,0.6499,16
+321,4,Bella Cucina Events,Italian,platinum,2024-10-13,5,0.7184,positive,0.375,0.8,Value & Pricing,0.5248,19
+1034,13,The Smokehouse BBQ,BBQ,silver,2024-10-14,4,0.7579,positive,0.65,0.4,Delivery & Timeliness,0.919,13
+676,8,Mediterranean Table,Mediterranean,platinum,2024-10-14,5,0.8126,positive,1.0,1.0,Delivery & Timeliness,0.9651,25
+257,4,Bella Cucina Events,Italian,platinum,2024-10-16,5,0.9153,positive,0.3667,0.7917,Food Quality & Taste,0.5407,21
+982,12,Pacific Rim Catering,Asian Fusion,silver,2024-10-17,4,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9636,13
+1199,15,Federal Street Fare,American,needs_improvement,2024-10-21,4,0.3182,positive,0.3,0.5,Packaging & Presentation,0.5882,11
+162,2,Spice Route Catering,Indian,gold,2024-10-21,5,0.7717,positive,0.275,0.45,Food Quality & Taste,0.4194,28
+1044,13,The Smokehouse BBQ,BBQ,silver,2024-10-22,4,0.8126,positive,0.45,0.75,Customer Service,0.5124,13
+352,5,Green Garden Catering,Vegetarian,gold,2024-10-23,4,0.6369,positive,1.0,0.3,Food Quality & Taste,0.8662,13
+858,11,Saffron House,Middle Eastern,gold,2024-10-24,5,0.5859,positive,0.1464,0.7339,Value & Pricing,0.6186,28
+805,10,New England Deli,American,needs_improvement,2024-10-24,4,0.7096,positive,0.4333,0.8333,Packaging & Presentation,0.5111,13
+720,9,Seoul Kitchen Catering,Korean,gold,2024-10-24,5,0.7351,positive,0.3619,0.6452,Customer Service,0.3982,24
+701,9,Seoul Kitchen Catering,Korean,gold,2024-10-24,4,0.8268,positive,0.45,0.75,Food Quality & Taste,0.5123,16
+1056,13,The Smokehouse BBQ,BBQ,silver,2024-10-24,4,0.6808,positive,0.25,1.0,Value & Pricing,0.5099,18
+785,10,New England Deli,American,needs_improvement,2024-10-25,4,0.3804,positive,0.3,0.5,Food Quality & Taste,0.9268,16
+276,4,Bella Cucina Events,Italian,platinum,2024-10-26,5,0.8316,positive,0.35,0.6917,Packaging & Presentation,0.5936,22
+1055,13,The Smokehouse BBQ,BBQ,silver,2024-10-26,4,0.8555,positive,0.6,1.0,Packaging & Presentation,0.5123,13
+604,8,Mediterranean Table,Mediterranean,platinum,2024-10-26,5,0.6478,positive,0.0838,0.4287,Food Quality & Taste,0.9651,27
+791,10,New England Deli,American,needs_improvement,2024-10-26,4,0.7506,positive,0.3833,0.6,Food Quality & Taste,0.5333,21
+231,3,Harbor Fresh Kitchen,American,silver,2024-10-27,4,0.8173,positive,0.3667,0.6667,Delivery & Timeliness,0.5414,15
+727,9,Seoul Kitchen Catering,Korean,gold,2024-10-27,4,0.5106,positive,0.5,0.9,Value & Pricing,0.9423,15
+447,6,Taqueria Del Sol,Mexican,gold,2024-10-28,4,0.3818,positive,0.4167,0.7083,Food Quality & Taste,0.9199,11
+1169,15,Federal Street Fare,American,needs_improvement,2024-10-29,4,0.6486,positive,0.3111,0.6,Packaging & Presentation,0.6517,13
+848,11,Saffron House,Middle Eastern,gold,2024-10-30,4,0.5423,positive,0.1111,0.8056,Value & Pricing,0.9495,15
+797,10,New England Deli,American,needs_improvement,2024-10-31,4,0.3612,positive,0.2214,0.5589,Food Quality & Taste,0.5495,18
+931,12,Pacific Rim Catering,Asian Fusion,silver,2024-11-01,4,0.2263,positive,-0.5,1.0,Value & Pricing,0.9379,17
+1153,15,Federal Street Fare,American,needs_improvement,2024-11-02,4,0.7351,positive,0.575,0.75,Customer Service,0.5112,15
+667,8,Mediterranean Table,Mediterranean,platinum,2024-11-02,5,0.8481,positive,0.3714,0.6423,Packaging & Presentation,0.7302,19
+431,5,Green Garden Catering,Vegetarian,gold,2024-11-02,5,0.8807,positive,0.5,0.4,Packaging & Presentation,0.938,19
+106,2,Spice Route Catering,Indian,gold,2024-11-03,5,0.872,positive,0.2,0.8333,Customer Service,0.6437,29
+1005,13,The Smokehouse BBQ,BBQ,silver,2024-11-03,4,0.0,neutral,0.1,0.1,Packaging & Presentation,0.9424,11
+400,5,Green Garden Catering,Vegetarian,gold,2024-11-04,5,0.7717,positive,0.25,0.6875,Food Quality & Taste,0.9424,21
+364,5,Green Garden Catering,Vegetarian,gold,2024-11-04,5,0.7906,positive,0.45,0.55,Customer Service,0.6225,24
+650,8,Mediterranean Table,Mediterranean,platinum,2024-11-04,5,0.807,positive,1.0,1.0,Packaging & Presentation,0.9418,17
+922,12,Pacific Rim Catering,Asian Fusion,silver,2024-11-05,4,0.2263,positive,-0.5,1.0,Value & Pricing,0.542,15
+397,5,Green Garden Catering,Vegetarian,gold,2024-11-06,5,0.3818,positive,0.3111,0.5056,Food Quality & Taste,0.5214,18
+723,9,Seoul Kitchen Catering,Korean,gold,2024-11-07,4,0.5574,positive,-0.2,0.6917,Packaging & Presentation,0.509,16
+56,1,Boston Box Lunch Co.,American,platinum,2024-11-07,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8998,10
+157,2,Spice Route Catering,Indian,gold,2024-11-08,5,0.5106,positive,0.0,0.0,Packaging & Presentation,0.9635,18
+554,7,The Grain Bowl,American,silver,2024-11-10,4,0.6369,positive,1.0,0.3,Customer Service,0.8644,16
+1175,15,Federal Street Fare,American,needs_improvement,2024-11-10,4,0.6369,positive,1.0,0.3,Food Quality & Taste,0.8372,16
+862,11,Saffron House,Middle Eastern,gold,2024-11-11,5,0.8402,positive,0.4583,0.7292,Delivery & Timeliness,0.5835,21
+309,4,Bella Cucina Events,Italian,platinum,2024-11-12,5,0.9136,positive,0.525,0.6375,Delivery & Timeliness,0.3969,25
+1008,13,The Smokehouse BBQ,BBQ,silver,2024-11-13,4,0.5106,positive,0.4171,0.8271,Value & Pricing,0.9555,14
+1007,13,The Smokehouse BBQ,BBQ,silver,2024-11-13,4,0.5719,positive,0.55,0.55,Delivery & Timeliness,0.9428,14
+546,7,The Grain Bowl,American,silver,2024-11-15,4,0.7269,positive,0.6,1.0,Packaging & Presentation,0.5396,14
+583,7,The Grain Bowl,American,silver,2024-11-15,4,0.5106,positive,0.1,0.2,Customer Service,0.6833,14
+404,5,Green Garden Catering,Vegetarian,gold,2024-11-15,5,0.0,neutral,0.1,0.1,Packaging & Presentation,0.9524,18
+486,6,Taqueria Del Sol,Mexican,gold,2024-11-16,4,0.2263,positive,-0.2,0.55,Value & Pricing,0.9422,14
+748,9,Seoul Kitchen Catering,Korean,gold,2024-11-16,4,0.765,positive,0.5,0.9,Value & Pricing,0.5666,12
+1164,15,Federal Street Fare,American,needs_improvement,2024-11-17,4,0.875,positive,0.725,1.0,Customer Service,0.9556,18
+112,2,Spice Route Catering,Indian,gold,2024-11-17,4,0.5413,positive,-0.1,0.75,Value & Pricing,0.5666,17
+893,11,Saffron House,Middle Eastern,gold,2024-11-17,4,0.7269,positive,0.6,1.0,Customer Service,0.933,16
+728,9,Seoul Kitchen Catering,Korean,gold,2024-11-17,5,0.0,neutral,0.0,0.0,Packaging & Presentation,0.9665,19
+1123,14,Garden State Greens,Vegetarian,silver,2024-11-18,5,0.5239,positive,0.4786,0.8119,Customer Service,0.4028,22
+770,10,New England Deli,American,needs_improvement,2024-11-18,4,0.5106,positive,0.5,0.9,Value & Pricing,0.5159,13
+989,12,Pacific Rim Catering,Asian Fusion,silver,2024-11-19,4,0.5994,positive,0.85,1.0,Customer Service,0.5417,16
+1112,14,Garden State Greens,Vegetarian,silver,2024-11-19,4,0.7579,positive,0.8,1.0,Delivery & Timeliness,0.4842,15
+918,12,Pacific Rim Catering,Asian Fusion,silver,2024-11-22,4,0.5106,positive,0.5,0.9,Value & Pricing,0.7195,12
+91,1,Boston Box Lunch Co.,American,platinum,2024-11-23,5,0.8271,positive,0.2667,0.4333,Food Quality & Taste,0.3729,28
+1060,13,The Smokehouse BBQ,BBQ,silver,2024-11-23,4,0.8479,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+673,8,Mediterranean Table,Mediterranean,platinum,2024-11-23,5,0.7351,positive,0.2333,0.3333,Customer Service,0.8417,26
+1006,13,The Smokehouse BBQ,BBQ,silver,2024-11-23,4,0.7906,positive,0.625,0.925,Delivery & Timeliness,0.51,16
+630,8,Mediterranean Table,Mediterranean,platinum,2024-11-24,5,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9691,20
+582,7,The Grain Bowl,American,silver,2024-11-24,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.6701,12
+492,6,Taqueria Del Sol,Mexican,gold,2024-11-24,4,0.5574,positive,-0.2,0.6917,Packaging & Presentation,0.509,16
+685,9,Seoul Kitchen Catering,Korean,gold,2024-11-24,5,0.5423,positive,0.1111,0.8056,Value & Pricing,0.955,22
+722,9,Seoul Kitchen Catering,Korean,gold,2024-11-25,5,0.7096,positive,0.4,0.4875,Packaging & Presentation,0.3968,21
+560,7,The Grain Bowl,American,silver,2024-11-25,4,0.7096,positive,0.4333,0.8333,Packaging & Presentation,0.5111,13
+933,12,Pacific Rim Catering,Asian Fusion,silver,2024-11-26,4,0.3182,positive,0.2952,0.6452,Delivery & Timeliness,0.5124,12
+792,10,New England Deli,American,needs_improvement,2024-11-26,4,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9332,10
+293,4,Bella Cucina Events,Italian,platinum,2024-11-26,5,0.8555,positive,0.325,0.4,Food Quality & Taste,0.9553,25
+394,5,Green Garden Catering,Vegetarian,gold,2024-11-26,5,0.8514,positive,0.4333,0.6667,Food Quality & Taste,0.9496,19
+981,12,Pacific Rim Catering,Asian Fusion,silver,2024-11-27,4,0.7269,positive,0.6,1.0,Customer Service,0.6834,13
+553,7,The Grain Bowl,American,silver,2024-11-27,4,0.3612,positive,0.1333,0.3,Food Quality & Taste,0.7465,16
+149,2,Spice Route Catering,Indian,gold,2024-11-28,4,0.6249,positive,0.2833,0.5542,Food Quality & Taste,0.9555,17
+130,2,Spice Route Catering,Indian,gold,2024-11-28,4,0.7425,positive,0.65,0.75,Delivery & Timeliness,0.6016,17
+699,9,Seoul Kitchen Catering,Korean,gold,2024-11-29,4,0.5994,positive,0.3778,0.6389,Food Quality & Taste,0.5052,11
+998,13,The Smokehouse BBQ,BBQ,silver,2024-11-30,4,0.6369,positive,1.0,0.3,Food Quality & Taste,0.8662,13
+666,8,Mediterranean Table,Mediterranean,platinum,2024-12-01,4,0.0,neutral,0.2929,0.7179,Value & Pricing,0.9325,15
+622,8,Mediterranean Table,Mediterranean,platinum,2024-12-01,5,0.3804,positive,0.1333,0.2,Food Quality & Taste,0.3618,18
+462,6,Taqueria Del Sol,Mexican,gold,2024-12-02,4,0.9001,positive,0.5167,0.9167,Customer Service,0.48,15
+679,8,Mediterranean Table,Mediterranean,platinum,2024-12-03,5,0.0,neutral,0.0,0.0,Packaging & Presentation,0.9665,19
+733,9,Seoul Kitchen Catering,Korean,gold,2024-12-03,4,0.7269,positive,0.25,0.65,Value & Pricing,0.9331,17
+923,12,Pacific Rim Catering,Asian Fusion,silver,2024-12-03,4,0.3182,positive,0.2,0.3,Delivery & Timeliness,0.9332,10
+176,3,Harbor Fresh Kitchen,American,silver,2024-12-04,4,0.7184,positive,0.65,0.75,Delivery & Timeliness,0.9555,14
+962,12,Pacific Rim Catering,Asian Fusion,silver,2024-12-06,5,0.8126,positive,0.5333,0.3,Value & Pricing,0.4914,21
+358,5,Green Garden Catering,Vegetarian,gold,2024-12-06,4,0.5413,positive,-0.1,0.75,Value & Pricing,0.5666,17
+779,10,New England Deli,American,needs_improvement,2024-12-07,4,0.6124,positive,0.5,0.875,Packaging & Presentation,0.5741,13
+1147,15,Federal Street Fare,American,needs_improvement,2024-12-07,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8992,13
+609,8,Mediterranean Table,Mediterranean,platinum,2024-12-07,5,0.765,positive,0.5,0.9,Value & Pricing,0.9635,21
+44,1,Boston Box Lunch Co.,American,platinum,2024-12-09,5,0.8268,positive,1.0,1.0,Delivery & Timeliness,0.9552,21
+613,8,Mediterranean Table,Mediterranean,platinum,2024-12-09,4,0.6115,positive,0.5286,0.8119,Value & Pricing,0.9325,12
+227,3,Harbor Fresh Kitchen,American,silver,2024-12-09,4,0.6361,positive,0.3778,0.6389,Food Quality & Taste,0.9428,14
+1013,13,The Smokehouse BBQ,BBQ,silver,2024-12-09,4,0.807,positive,0.4,0.5,Customer Service,0.9329,14
+681,9,Seoul Kitchen Catering,Korean,gold,2024-12-09,4,0.4215,positive,0.35,0.55,Packaging & Presentation,0.9424,11
+606,8,Mediterranean Table,Mediterranean,platinum,2024-12-09,4,0.6124,positive,0.3,0.4875,Food Quality & Taste,0.6089,12
+113,2,Spice Route Catering,Indian,gold,2024-12-10,5,0.4215,positive,0.0964,0.6339,Value & Pricing,0.9666,24
+331,4,Bella Cucina Events,Italian,platinum,2024-12-10,5,0.6486,positive,0.3,0.5,Delivery & Timeliness,0.9692,15
+127,2,Spice Route Catering,Indian,gold,2024-12-10,5,0.9237,positive,0.7,0.75,Delivery & Timeliness,0.5832,15
+1130,14,Garden State Greens,Vegetarian,silver,2024-12-10,5,0.9117,positive,0.4088,0.7288,Delivery & Timeliness,0.3681,25
+1028,13,The Smokehouse BBQ,BBQ,silver,2024-12-11,4,0.7096,positive,0.4167,0.7083,Packaging & Presentation,0.5857,11
+980,12,Pacific Rim Catering,Asian Fusion,silver,2024-12-11,4,0.2263,positive,0.0286,0.8119,Value & Pricing,0.9555,16
+670,8,Mediterranean Table,Mediterranean,platinum,2024-12-12,5,0.5994,positive,0.85,1.0,Customer Service,0.5556,23
+320,4,Bella Cucina Events,Italian,platinum,2024-12-12,5,0.6124,positive,0.15,0.5,Packaging & Presentation,0.5451,17
+924,12,Pacific Rim Catering,Asian Fusion,silver,2024-12-13,4,0.8581,positive,1.0,0.65,Food Quality & Taste,0.8646,13
+21,1,Boston Box Lunch Co.,American,platinum,2024-12-14,5,0.855,positive,0.3737,0.6663,Food Quality & Taste,0.9527,19
+950,12,Pacific Rim Catering,Asian Fusion,silver,2024-12-14,4,0.4019,positive,0.1,0.3833,Packaging & Presentation,0.9496,12
+78,1,Boston Box Lunch Co.,American,platinum,2024-12-16,5,0.5709,positive,-0.155,0.6383,Food Quality & Taste,0.509,22
+538,7,The Grain Bowl,American,silver,2024-12-16,4,0.807,positive,1.0,1.0,Packaging & Presentation,0.932,10
+1061,13,The Smokehouse BBQ,BBQ,silver,2024-12-17,4,0.3182,positive,0.2952,0.6452,Delivery & Timeliness,0.4799,12
+737,9,Seoul Kitchen Catering,Korean,gold,2024-12-19,5,0.7089,positive,0.3778,0.6389,Food Quality & Taste,0.583,19
+689,9,Seoul Kitchen Catering,Korean,gold,2024-12-19,5,0.5267,positive,0.2,0.3,Food Quality & Taste,0.6188,27
+528,7,The Grain Bowl,American,silver,2024-12-20,4,0.7003,positive,0.175,1.0,Value & Pricing,0.4842,19
+675,8,Mediterranean Table,Mediterranean,platinum,2024-12-20,5,0.7783,positive,0.2778,0.3444,Delivery & Timeliness,0.6051,20
+540,7,The Grain Bowl,American,silver,2024-12-20,4,0.0,neutral,0.2286,0.5119,Value & Pricing,0.9323,12
+869,11,Saffron House,Middle Eastern,gold,2024-12-20,4,0.3612,positive,0.15,0.4,Food Quality & Taste,0.9464,19
+1197,15,Federal Street Fare,American,needs_improvement,2024-12-21,4,0.7351,positive,0.4333,0.6,Delivery & Timeliness,0.4896,20
+393,5,Green Garden Catering,Vegetarian,gold,2024-12-22,5,0.5719,positive,1.0,1.0,Packaging & Presentation,0.4857,22
+680,9,Seoul Kitchen Catering,Korean,gold,2024-12-23,4,0.807,positive,0.625,0.925,Value & Pricing,0.9378,12
+483,6,Taqueria Del Sol,Mexican,gold,2024-12-23,4,0.7579,positive,0.2667,0.5583,Food Quality & Taste,0.9555,18
+640,8,Mediterranean Table,Mediterranean,platinum,2024-12-23,4,0.3182,positive,0.3,0.5,Delivery & Timeliness,0.6444,10
+28,1,Boston Box Lunch Co.,American,platinum,2024-12-24,5,0.8555,positive,0.2667,0.5,Customer Service,0.9525,24
+108,2,Spice Route Catering,Indian,gold,2024-12-24,5,0.7579,positive,0.45,0.425,Packaging & Presentation,0.9375,15
+806,10,New England Deli,American,needs_improvement,2024-12-24,4,0.6808,positive,0.25,1.0,Value & Pricing,0.5099,18
+646,8,Mediterranean Table,Mediterranean,platinum,2024-12-24,5,0.4215,positive,-0.3333,0.6667,Value & Pricing,0.768,23
+738,9,Seoul Kitchen Catering,Korean,gold,2024-12-25,5,0.6124,positive,0.5,0.875,Food Quality & Taste,0.9379,19
+586,7,The Grain Bowl,American,silver,2024-12-26,4,0.0,neutral,0.0,0.0,Food Quality & Taste,0.8846,13
+908,11,Saffron House,Middle Eastern,gold,2024-12-27,5,0.6369,positive,0.5286,0.5786,Value & Pricing,0.9423,22
+445,6,Taqueria Del Sol,Mexican,gold,2024-12-27,5,0.8176,positive,0.1,0.36,Food Quality & Taste,0.6607,26
+1011,13,The Smokehouse BBQ,BBQ,silver,2024-12-27,4,0.6369,positive,-0.1,0.5,Value & Pricing,0.5111,18
+1022,13,The Smokehouse BBQ,BBQ,silver,2024-12-27,4,0.5719,positive,1.0,1.0,Delivery & Timeliness,0.51,15
+967,12,Pacific Rim Catering,Asian Fusion,silver,2024-12-28,4,0.6124,positive,0.5,0.875,Food Quality & Taste,0.9195,15
+986,12,Pacific Rim Catering,Asian Fusion,silver,2024-12-28,4,0.5106,positive,0.1,0.25,Customer Service,0.6834,14
+651,8,Mediterranean Table,Mediterranean,platinum,2024-12-28,5,0.7645,positive,0.2667,0.4583,Food Quality & Taste,0.66,20
+1183,15,Federal Street Fare,American,needs_improvement,2024-12-29,4,0.7269,positive,0.3952,0.8119,Customer Service,0.4848,15
+333,4,Bella Cucina Events,Italian,platinum,2024-12-29,4,0.3804,positive,0.2952,0.6452,Value & Pricing,0.4925,15
+804,10,New England Deli,American,needs_improvement,2024-12-29,4,0.6808,positive,0.45,0.8,Value & Pricing,0.5666,12
+886,11,Saffron House,Middle Eastern,gold,2024-12-29,5,0.5106,positive,0.1964,0.4839,Customer Service,0.5395,23
+1057,13,The Smokehouse BBQ,BBQ,silver,2024-12-30,4,0.7579,positive,0.5611,0.8056,Customer Service,0.6134,16
+860,11,Saffron House,Middle Eastern,gold,2024-12-30,5,0.7184,positive,0.375,0.8,Value & Pricing,0.6742,18
+661,8,Mediterranean Table,Mediterranean,platinum,2024-12-30,5,0.4939,positive,0.3,0.3,Delivery & Timeliness,0.3637,18
+11,1,Boston Box Lunch Co.,American,platinum,2024-12-30,5,0.5994,positive,0.3778,0.6389,Delivery & Timeliness,0.5868,18
+1047,13,The Smokehouse BBQ,BBQ,silver,2024-12-30,4,0.7906,positive,0.625,0.925,Delivery & Timeliness,0.51,16
+1087,14,Garden State Greens,Vegetarian,silver,2024-12-31,5,0.5106,positive,0.375,0.675,Value & Pricing,0.579,20
+1069,14,Garden State Greens,Vegetarian,silver,2024-12-31,4,0.6369,positive,1.0,0.3,Food Quality & Taste,0.8372,16

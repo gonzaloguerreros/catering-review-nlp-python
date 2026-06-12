@@ -1,0 +1,6 @@
+topic_label,negative,neutral,positive,avg_vader_score
+Value & Pricing,0.0,6.0,94.0,0.59
+Packaging & Presentation,0.3,6.6000000000000005,93.10000000000001,0.591
+Food Quality & Taste,0.4,4.9,94.69999999999999,0.618
+Delivery & Timeliness,0.0,1.6,98.4,0.674
+Customer Service,0.7000000000000001,0.7000000000000001,98.7,0.755
