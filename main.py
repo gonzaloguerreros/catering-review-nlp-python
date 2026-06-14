@@ -59,7 +59,7 @@ def main():
     _section("STEP 2 — Sentiment Analysis (VADER + TextBlob)")
     df = score_vader(df)
     df = score_textblob(df)
-    print(f"\n  Sentiment distribution:")
+    print("\n  Sentiment distribution:")
     print(df["vader_label"].value_counts(normalize=True).mul(100).round(1).to_string())
 
     agree = rating_sentiment_agreement(df)
@@ -83,7 +83,7 @@ def main():
     df = assign_dominant_topic(lda_model, dtm, df)
     df = label_topics(df)
 
-    print(f"\n  Topic distribution:")
+    print("\n  Topic distribution:")
     print(df["topic_label"].value_counts(normalize=True).mul(100).round(1).to_string())
 
     # -----------------------------------------------------------------------
@@ -152,8 +152,6 @@ def main():
 
     worst = summary.iloc[-1]
     best  = summary.iloc[0]
-    top_neg_topic = topic_sent["avg_vader_score"].idxmin()
-
     # Most common topic in negative reviews
     neg_reviews   = df[df["vader_label"] == "negative"]
     top_complaint_topic = neg_reviews["topic_label"].value_counts().idxmax()
