@@ -8,25 +8,25 @@ version     = "1.0.0"
 description = "NLP review intelligence pipeline for a B2B catering marketplace"
 readme      = "README.md"
 license     = { text = "MIT" }
-requires-python = ">=3.8"
+requires-python = ">=3.11"
 
 dependencies = [
-    "pandas==2.0.3",
-    "numpy==1.24.4",
-    "scikit-learn==1.3.2",
-    "nltk==3.9.1",
-    "textblob==0.18.0.post0",
-    "wordcloud==1.9.4",
-    "matplotlib==3.7.5",
+    "pandas==3.0.3",
+    "numpy==2.4.6",
+    "scipy==1.17.1",
+    "scikit-learn==1.9.0",
+    "nltk==3.9.4",
+    "textblob==0.20.0",
+    "wordcloud==1.9.6",
+    "matplotlib==3.11.0",
     "seaborn==0.13.2",
-    "scipy==1.10.1",
 ]
 
 [project.optional-dependencies]
 dev = [
-    "pytest==7.4.4",
-    "pycodestyle==2.11.1",
-    "pyflakes==3.2.0",
+    "pytest==9.1.0",
+    "pycodestyle==2.14.0",
+    "pyflakes==3.4.0",
 ]
 
 [tool.pytest.ini_options]

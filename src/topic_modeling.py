@@ -28,11 +28,10 @@ Implementation uses scikit-learn's LatentDirichletAllocation, which is
 well-documented, production-stable, and does not require a GPU.
 """
 
-from __future__ import annotations
+
 
 import re
 import string
-from typing import Optional
 
 import nltk
 import numpy as np
@@ -60,7 +59,7 @@ CATERING_STOPWORDS = {
     "also", "even", "really", "would", "could", "us", "our",
 }
 
-def preprocess_text(text: str, lemmatizer: Optional[WordNetLemmatizer] = None) -> str:
+def preprocess_text(text: str, lemmatizer: WordNetLemmatizer | None = None) -> str:
     """
     Clean and normalise a single review string.
 

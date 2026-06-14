@@ -5,7 +5,7 @@ Charts and word clouds for the NLP review analysis.
 All figures saved to outputs/ as PNGs.
 """
 
-from __future__ import annotations
+
 import os
 
 import matplotlib.pyplot as plt

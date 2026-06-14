@@ -10,7 +10,7 @@ for machine learning models belong here so they are easy to tune without
 hunting through source files.
 """
 
-from __future__ import annotations
+
 
 from pathlib import Path
 

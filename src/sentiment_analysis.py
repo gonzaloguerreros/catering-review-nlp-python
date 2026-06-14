@@ -22,7 +22,7 @@ Both scores are computed so we can cross-validate and use each where it
 is strongest — VADER for classification, TextBlob for subjectivity.
 """
 
-from __future__ import annotations
+
 
 import nltk
 import numpy as np
